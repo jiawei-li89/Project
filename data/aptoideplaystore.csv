@@ -1,351 +1,1491 @@
 App,Category,Rating,Size,Reviews
-Twitter,Social,4.28,19.5,2204
-LinkedIn,Social,4.01,29.5,179
-BIGO LIVE,Social,4.3,57.0,544
-HAGO,Social,4.18,73.5,257
-Instagram,Social,4.41,34.5,13857
-TikTok,Social,4.2,102.0,4160
-Facebook Lite,Social,4.3,1.5,2546
-Snapchat,Social,4.26,96.5,14319
-Telegram,Social,4.57,40.5,1068
-"Viber Messenger - Messages, Group Chats & Calls",Social,4.21,57.5,3627
-Pinterest,Social,4.64,16.0,638
-Samsung Messages,Social,4.02,47.0,116
-Facebook Services,Social,4.18,0.66,50
-WhatsApp Business,Social,4.26,32.5,155
-﻿Skype – free IM & video calls,Social,4.32,41.0,1688
-Phone,Social,3.15,25.0,170
-Device configuration,Social,3.17,0.02,12
-Contacts,Social,3.86,9.5,111
-SoundCloud,Social,4.6,22.5,929
-Free WiFi by Instabridge,Social,4.31,33.5,277
-Currents,Social,4.39,14.0,1430
-Play Store Pro,Social,4.35,24.0,264
-5000 Followers Pro Instagram,Social,4.17,8.5,2452
-Downloads,Social,3.69,1.5,171
-Messages,Social,3.6,9.0,262
-TextNow - Free US Phone Number,Social,4.32,26.0,642
-Grand Theft Auto,Social,4.0,10.0,13
-"Badoo — Dating App to Chat, Date & Meet New People",Social,4.0,23.0,370
-Messagerie double,Social,4.33,1.0,6
-EBA,Social,3.82,34.5,17
-OK,Social,4.24,44.0,80
-Turbo Followers for Instagram - get free insta followers on Instagram and 5000 IG follower app,Social,3.89,10.5,47
-Tumblr,Social,4.5,20.5,481
-S Planner,Social,3.24,5.0,174
-Badoo Premium,Social,3.7,37.0,396
-Reddit,Social,4.6,41.0,99
-YoWhatsApp,Social,3.87,54.5,248
-ShareChat - Made in India,Social,4.35,27.0,34
-All social media and social networks in one app,Social,4.75,3.5,4
-QR Reader,Social,3.0,19.5,6
-Wi-Fi Calling Service,Social,1.0,0.03,0
-GB Wassaph V8 for WassApp,Social,3.0,6.0,1
-"Helo - Discover, Share & Communicate",Social,3.71,37.5,0
-LivU,Social,4.7,51.5,43
-Tango - Live Video Broadcasts and Streaming Chats,Social,4.17,112.5,1138
-Kanix Play,Social,5.0,14.5,0
-Telegram X,Social,4.61,21.5,87
-HONOR Club,Social,5.0,15.5,0
-Instagram followers,Social,3.62,3.0,21
-Reports+ Followers Analytics for Instagram,Social,4.0,15.0,60
-LINE,Communication,4.3,72.0,993
-Azar,Communication,4.26,83.0,752
-WhatsApp Messenger,Communication,4.21,31.0,28475
-UC Browser,Communication,4.31,65.5,2119
-Messenger,Communication,4.33,43.5,12408
-Gmail,Communication,4.38,20.5,1528
-Google Duo – High quality video calls,Communication,4.5,8.5,329
-Browser,Communication,4.36,55.5,0
-Google Chrome,Communication,4.35,7.0,3151
-"Discord - Talk, Video Chat & Hang Out with Friends",Communication,4.56,83.0,822
-Favourite Contacts,Communication,4.17,0.27,30
-Telegram,Communication,4.57,40.5,1068
-"Viber Messenger - Messages, Group Chats & Calls",Communication,4.21,57.5,3627
-Samsung text-to-speech engine,Communication,3.98,9.5,52
-VidMate,Communication,4.36,14.0,1420
-Messages,Communication,3.86,18.0,260
-Samsung Internet Browser,Communication,4.23,114.5,548
-Carrier Services,Communication,4.37,17.0,170
-Opera browser with free VPN,Communication,4.48,78.0,418
-Samsung Push Service,Communication,4.47,4.5,214
-Samsung Clock,Communication,3.4,25.0,292
-Samsung Messages,Communication,4.02,47.0,116
-HTC Phone,Communication,3.53,3.5,80
-Opera Mini - fast web browser,Communication,4.46,15.0,712
-Messenger Lite,Communication,1.0,11.0,32
-Samsung Contacts,Communication,3.77,21.0,101
-Firefox Browser,Communication,4.36,70.5,956
-Contacts Storage,Communication,2.67,6.5,9
-WhatsApp Business,Communication,4.26,32.5,155
-ANT Radio Service,Communication,4.05,0.16,59
-﻿Skype – free IM & video calls,Communication,4.32,41.0,1688
-Samsung Pay Framework,Communication,4.5,50.0,26
-OMACP,Communication,3.89,0.83,28
-Hangouts,Communication,4.25,23.5,780
-Contacts,Communication,4.45,12.0,55
-Contacts,Communication,3.75,25.0,0
-Contacts,Communication,3.86,9.5,111
-Remote Controls,Communication,3.65,0.17,88
-UC Mini- Download Video Status & Movies,Communication,4.12,15.0,288
-Messages,Communication,3.6,9.0,262
-Yahoo Mail – Stay Organised,Communication,4.63,24.5,350
-Yandex Browser with Protect,Communication,4.61,147.0,222
-Deezer Music Player,Communication,4.33,19.5,642
-AudioConnectionService,Communication,4.2,0.15,0
-IVONA TTS,Communication,2.6,0.32,10
-Torque Pro (OBD 2 & Car),Communication,3.95,16.5,249
-E-mail,Communication,3.64,10.5,139
-TextNow - Free US Phone Number,Communication,4.32,26.0,642
-Signal Private Messenger,Communication,4.31,46.5,113
-Truecaller,Communication,4.55,49.0,1011
-Snaptube,Multimedia,4.47,12.5,8594
-Netflix,Multimedia,3.74,15.5,5145
-YouTube,Multimedia,4.27,17.5,8467
-Google Play Music,Multimedia,4.38,15.0,1161
-Samsung Gallery,Multimedia,3.83,9.5,323
-VidMate,Multimedia,4.36,14.0,1420
-Shazam,Multimedia,4.43,7.5,435
-Video,Multimedia,4.39,3.0,66
-Samsung Internet Browser,Multimedia,4.23,114.5,548
-Photo Screensavers,Multimedia,4.22,0.47,32
-Samsung Voice Recorder,Multimedia,4.45,12.5,84
-Samsung Messages,Multimedia,4.02,47.0,116
-Smart View,Multimedia,4.0,4.5,13
-Music,Multimedia,4.21,118.0,169
-VLC for Android,Multimedia,4.44,31.0,701
-Snaptube,Multimedia,3.04,15.0,48
-Camera (AOSP),Multimedia,3.78,9.0,40
-Samsung Music,Multimedia,3.79,25.5,541
-Poweramp,Multimedia,4.42,8.0,892
-FM Radio,Multimedia,4.24,27.0,0
-Gallery,Multimedia,3.32,30.5,56
-Spotify Premium,Multimedia,1.83,5.5,64
-Messages,Multimedia,3.6,9.0,262
-1Mobile Market,Multimedia,4.22,8.5,1211
-AudioConnectionService,Multimedia,4.2,0.15,0
-Camera,Multimedia,3.43,5.0,136
-Mi Music,Multimedia,3.69,36.5,102
-Camera,Multimedia,2.91,20.5,87
-Mi Video,Multimedia,4.29,55.5,31
-withTV,Multimedia,4.2,1.0,5
-Virtual shot viewer,Multimedia,5.0,0.8,0
-Recorder,Multimedia,3.87,6.0,38
-Hancom Office Cell Viewer,Multimedia,4.5,57.5,4
-Camera360,Multimedia,4.15,53.0,379
-S Planner,Multimedia,3.24,5.0,174
-Poweramp Full Version Unlocker,Multimedia,3.91,0.13,982
-Gallery,Multimedia,3.92,29.5,74
-YouTube Video Downloader,Multimedia,4.25,12.0,36
-HD Audio Recorder,Multimedia,3.0,4.0,2
-Hancom Office Viewer,Multimedia,4.67,2.5,0
-视频,Multimedia,2.71,57.0,0
-RedPlay App,Multimedia,4.67,14.5,3
-Email,Multimedia,3.36,13.5,14
-Voice Recorder,Multimedia,3.59,0.93,27
-TuneIn Radio,Multimedia,3.88,13.5,214
-ES File Explorer  File Manager,Multimedia,4.6,2.0,3439
-Kids Gallery,Multimedia,3.25,2.5,4
-Tube mate 2.2.9,Multimedia,3.63,7.0,35
-Vivo Albums,Multimedia,4.6,206.5,10
-Dolby Atmos,Multimedia,3.39,132.5,186
-Termux,Tools,4.62,0.19,60
-KingRoot,Tools,4.09,9.0,4617
-HappyMod,Tools,3.52,5.5,124
-"Xender - Share Music&Video,Share Photo,Share File",Tools,4.32,7.5,191
-Google PLAY,Tools,4.07,35.0,14051
-Google Play services,Tools,4.13,42.0,6702
-Gboard – the Google Keyboard,Tools,4.25,71.5,1058
-Google Text-to-Speech,Tools,4.27,21.5,358
-Samsung One UI Home,Tools,3.61,10.5,493
-Android Accessibility Suite,Tools,4.3,15.0,583
-Google Calendar Sync,Tools,3.74,2.5,135
-Master for Minecraft- Launcher,Tools,4.46,21.5,12945
-Accessibility,Tools,3.87,22.5,53
-Browser,Tools,4.36,55.5,0
-DRParser Mode,Tools,4.33,0.08,9
-Google Contacts Sync,Tools,3.22,1.5,259
-Dictionnaire,Tools,3.85,10.5,39
-Cheat FreeFire Hack MOD,Tools,3.69,3.0,688
-,Tools,,,0
-Fast App Engine,Tools,4.86,53.0,0
-SwiftKey 2,Tools,2.41,0.45,115
-DiagMonAgent,Tools,4.29,1.0,31
-Find My Mobile,Tools,4.5,9.5,28
-ANT HAL Service,Tools,3.88,0.03,42
-Foundation,Tools,3.69,1.5,39
-HiBoard,Tools,4.22,40.5,0
-AutoPreconfig,Tools,4.01,0.06,85
-Lucky Patcher,Tools,4.06,6.0,5581
-Game Tools,Tools,3.79,12.5,178
-S Finder,Tools,4.3,1.5,40
-Link Sharing,Tools,3.0,6.5,3
-Samsung Calculator,Tools,4.36,3.0,114
-VidMate,Tools,4.36,14.0,1420
-Actualizacin de software,Tools,3.74,4.5,230
-Clean Master (Speed Booster),Tools,4.37,54.5,1769
-Shazam,Tools,4.43,7.5,435
-Video,Tools,4.39,3.0,66
-UltraCfg,Tools,4.0,0.11,0
-Google Play Services for AR,Tools,3.53,75.0,200
-Samsung Experience Service,Tools,4.97,31.0,32
-Digital Wellbeing,Tools,4.8,10.5,10
-UC Browser,Tools,4.31,65.5,2119
-LogsProvider,Tools,3.73,0.04,329
-Device Care,Tools,4.14,11.0,123
-BBCAgent,Tools,3.71,0.25,14
-HwModuleTest,Tools,4.72,3.5,43
-Sound picker,Tools,4.75,7.5,32
-NetworkDiagnostic,Tools,3.09,9.0,11
-EmergencyProvider,Tools,3.86,0.02,0
-Smart Switch,Tools,4.63,4.0,32
-Netflix,Entertainment,3.74,15.5,5145
-Mobdro,Entertainment,4.04,21.5,796
-Nimo TV,Entertainment,4.36,77.0,87
-Aptoide,Entertainment,4.36,20.5,18941
-S Suggest,Entertainment,4.41,27.0,658
-,Entertainment,,,0
-Foundation,Entertainment,3.69,1.5,39
-Game Tools,Entertainment,3.79,12.5,178
-Link Sharing,Entertainment,3.0,6.5,3
-VidMate,Entertainment,4.36,14.0,1420
-Samsung Billing,Entertainment,4.37,13.5,92
-Actualizacin de software,Entertainment,3.74,4.5,230
-Kodi,Entertainment,4.04,64.0,608
-Google Play Games,Entertainment,4.23,17.0,2333
-Roblox,Entertainment,4.45,81.5,18967
-Video,Entertainment,4.39,3.0,66
-Samsung Experience Service,Entertainment,4.97,31.0,32
-Amazon Prime Video,Entertainment,3.52,30.5,329
-Sound picker,Entertainment,4.75,7.5,32
-Device security,Entertainment,3.26,6.0,38
-YouTube Pink,Entertainment,4.27,66.5,33
-Samsung Keyboard,Entertainment,3.68,61.0,201
-Carrier Services,Entertainment,4.37,17.0,170
-Samsung Clock,Entertainment,3.4,25.0,292
-Samsung Messages,Entertainment,4.02,47.0,116
-Bixby Home,Entertainment,3.84,17.5,64
-Maps of Among Us for Minecraft PE,Entertainment,3.07,6.5,41
-Samsung capture,Entertainment,4.0,11.5,4
-SoundAlive,Entertainment,4.14,3.5,43
-Samsung Contacts,Entertainment,3.77,21.0,101
-FM Radio,Entertainment,3.25,16.5,40
-Device Management,Entertainment,3.74,5.5,19
-Reminder,Entertainment,4.0,14.5,14
-Phone by Google – Caller ID and spam protection,Entertainment,4.08,19.5,84
-Wallpapers,Entertainment,4.41,2.5,29
-Magic Tiles 3,Entertainment,4.45,91.0,277
-Fun Race 3D,Entertainment,4.09,66.5,57
-YouTube for Android TV,Entertainment,3.15,18.5,6377
-Samsung account,Entertainment,3.85,29.5,212
-Mobile networks,Entertainment,3.15,10.0,20
-Files,Entertainment,4.37,58.5,142
-"Cheats for GTA 5, SAN ANDREAS, GTA 4",Entertainment,3.55,14.5,75
-﻿Skype – free IM & video calls,Entertainment,4.32,41.0,1688
-Google Go,Entertainment,4.78,11.0,46
-Phone,Entertainment,3.15,25.0,170
-Samsung Themes,Entertainment,3.75,9.5,273
-GOS Legacy,Entertainment,4.41,2.0,63
-Game Launcher,Entertainment,4.0,19.5,208
-Samsung Galaxy Friends,Entertainment,4.43,11.0,7
-[Samsung] Always On Display,Entertainment,2.97,16.5,99
-LinkedIn,Business,4.01,29.5,179
-Google PLAY,Business,4.07,35.0,14051
-Samsung Calculator,Business,4.36,3.0,114
-ZOOM Cloud Meetings,Business,3.48,16.0,86
-Microsoft Teams,Business,3.96,84.0,0
-Secure Folder,Business,4.05,15.5,62
-Google Meet – Secure video meetings,Business,3.57,19.0,47
-WPS Office + PDF,Business,4.29,19.5,481
-Facebook Business Suite,Business,4.35,70.0,242
-Hancom Office S Viewer,Business,4.56,39.5,16
-Amazon Flex,Business,4.36,81.5,11
-Microsoft Authenticator,Business,4.87,58.5,31
-PowerDirector Pro,Business,4.54,42.0,101
-Indeed Job Search,Business,4.46,4.5,52
-Finance,Business,2.33,2.0,3
-Adobe Scan,Business,4.41,14.5,29
-Uber Driver,Business,3.51,73.5,170
-Group Play,Business,4.08,43.0,84
-File Commander - File Manager & Free Cloud,Business,4.35,15.0,260
-WPS Office Lite,Business,4.49,80.5,55
-POLARIS Office Viewer 5,Business,4.0,21.5,27
-e-Devlet Kapısı,Business,2.33,8.5,0
-Cisco Webex Meetings,Business,4.1,69.5,10
-حراج,Business,4.33,14.0,18
-Bluetooth Audio Widget Battery FREE,Business,4.67,5.0,3
-LG Suporte,Business,5.0,2.0,0
-IQ Option X,Business,3.67,71.5,0
-"Cheetah Keyboard -   Emoji,Swype,DIY Themes",Business,4.55,34.5,164
-FX File Explorer,Business,4.52,9.0,94
-McMoney,Business,3.86,5.0,14
-"Vault - Hide Pics & Videos, App Lock, Free Backup",Business,4.57,16.5,154
-Почта России,Business,4.63,13.5,16
-Visual Voicemail by MetroPCS,Business,4.25,8.5,0
-Slack,Business,4.63,71.5,32
-Scanner App To PDF - TapScanner,Business,4.8,17.5,0
-Honor Store,Business,5.0,20.5,0
-"sahibinden.com: Emlak,Araba,Alışveriş ve Diğerleri",Business,4.83,23.0,12
-Facebook Ads Manager,Business,4.79,15.5,0
-imo ads,Business,4.46,7.0,26
-Aqua Mail - Email app for Any Email,Business,4.79,18.0,62
-InfoJobs - Job Search,Business,4.45,10.0,22
-Mon Espace - Pôle emploi,Business,4.67,68.5,49
-Jazz World - Manage Your Jazz Account,Business,4.62,14.5,13
-Box,Business,4.48,54.5,120
-"Polaris Office - Free Docs, Sheets, Slides + PDF",Business,4.6,28.0,81
-Canara eInfobook,Business,0.0,2.5,0
-Glover,Business,5.0,19.0,0
-Samsung Pay mini,Business,5.0,28.0,3
-Поиск работы на hh. Вакансии рядом с домом,Business,4.8,18.5,5
-App Store,Business,3.91,11.5,11
-Mobizen Screen Recorder,Productivity,4.3,28.0,5770
-Aptoide,Productivity,4.36,20.5,18941
-Microsoft SwiftKey Keyboard,Productivity,4.4,10.0,1173
-Microsoft Office,Productivity,4.56,92.5,45
-Samsung One UI Home,Productivity,3.61,10.5,493
-S Suggest,Productivity,4.41,27.0,658
-Microsoft Word,Productivity,4.4,117.5,477
-Microsoft PowerPoint,Productivity,4.36,109.0,244
-SwiftKey 2,Productivity,2.41,0.45,115
-Find My Mobile,Productivity,4.5,9.5,28
-Link Sharing,Productivity,3.0,6.5,3
-Samsung Calculator,Productivity,4.36,3.0,114
-Microsoft Excel,Productivity,4.46,114.5,213
-Aptoide TV,Productivity,4.38,12.0,273
-Microsoft Outlook,Productivity,4.14,86.5,448
-UC Browser,Productivity,4.31,65.5,2119
-Device Care,Productivity,4.14,11.0,123
-Google Calendar,Productivity,4.56,24.0,170
-Google Sheets,Productivity,4.4,28.5,89
-KingRoot,Productivity,4.09,9.0,4617
-Google Slides,Productivity,4.49,40.5,91
-Photo Screensavers,Productivity,4.22,0.47,32
-Adobe Acrobat Reader,Productivity,4.4,24.5,368
-Samsung Keyboard,Productivity,3.68,61.0,201
-Knox Enrollment Service,Productivity,4.65,4.5,17
-Samsung Clock,Productivity,3.4,25.0,292
-SecurityLogAgent,Productivity,4.77,3.5,26
-Bixby Home,Productivity,3.84,17.5,64
-Samsung My Files,Productivity,3.99,10.0,215
-Opera Mini - fast web browser,Productivity,4.46,15.0,712
-Game Suite Huawei,Productivity,4.17,18.0,30
-Health Service,Productivity,3.56,0.14,0
-Samsung Notes,Productivity,4.07,49.0,95
-Google Docs,Productivity,4.48,32.0,147
-"AliExpress - Smarter Shopping, Better Living",Productivity,4.24,38.5,893
-Reminder,Productivity,4.0,14.5,14
-Appstore,Productivity,3.78,3.5,668
-Dropbox,Productivity,4.35,23.0,1172
-Microsoft OneNote,Productivity,4.52,139.0,100
-Your Phone Companion - Link to Windows,Productivity,4.4,41.0,58
-Samsung account,Productivity,3.85,29.5,212
-Google Go,Productivity,4.78,11.0,46
-Wi-Fi Tips,Productivity,4.33,0.63,15
-Selettore sfondo animato,Productivity,3.68,0.43,63
-Samsung Email,Productivity,4.6,27.0,86
-[Samsung] Always On Display,Productivity,2.97,16.5,99
-Bixby Voice,Productivity,2.83,41.0,63
-Google Meet – Secure video meetings,Productivity,3.57,19.0,47
-WPS Office + PDF,Productivity,4.29,19.5,481
-App Box,Productivity,3.16,7.5,19
+Twitter,SOCIAL,4.28,19.5,2204
+LinkedIn,SOCIAL,4.01,29.5,179
+BIGO LIVE,SOCIAL,4.3,57.0,544
+HAGO,SOCIAL,4.18,73.5,257
+Facebook Lite,SOCIAL,4.3,1.5,2546
+Snapchat,SOCIAL,4.26,96.5,14320
+Telegram,SOCIAL,4.57,40.5,1068
+"Viber Messenger - Messages, Group Chats & Calls",SOCIAL,4.21,57.0,3627
+Pinterest,SOCIAL,4.64,16.0,638
+Samsung Messages,SOCIAL,4.02,47.0,116
+Facebook Services,SOCIAL,4.18,0.66,50
+WhatsApp Business,SOCIAL,4.26,32.5,155
+﻿Skype – free IM & video calls,SOCIAL,4.32,41.0,1688
+Phone,SOCIAL,3.15,25.0,170
+Device configuration,SOCIAL,3.17,0.02,12
+Contacts,SOCIAL,3.86,9.5,111
+SoundCloud,SOCIAL,4.6,22.5,929
+Free WiFi by Instabridge,SOCIAL,4.31,33.5,277
+Currents,SOCIAL,4.39,14.0,1430
+Play Store Pro,SOCIAL,4.35,24.0,264
+5000 Followers Pro Instagram,SOCIAL,4.17,8.5,2452
+Downloads,SOCIAL,3.69,1.5,171
+Messages,SOCIAL,3.6,9.0,262
+TextNow - Free US Phone Number,SOCIAL,4.32,26.0,642
+Grand Theft Auto,SOCIAL,4.0,10.0,13
+"Badoo — Dating App to Chat, Date & Meet New People",SOCIAL,4.0,23.0,370
+Messagerie double,SOCIAL,4.33,1.0,6
+EBA,SOCIAL,3.82,34.5,17
+OK,SOCIAL,4.24,44.5,80
+Turbo Followers for Instagram - get free insta followers on Instagram and 5000 IG follower app,SOCIAL,3.89,10.5,47
+Tumblr,SOCIAL,4.5,20.5,481
+S Planner,SOCIAL,3.24,5.0,174
+Badoo Premium,SOCIAL,3.7,37.0,396
+Reddit,SOCIAL,4.6,41.0,100
+YoWhatsApp,SOCIAL,3.87,54.5,248
+ShareChat - Made in India,SOCIAL,4.35,27.0,34
+All social media and social networks in one app,SOCIAL,4.75,3.5,4
+QR Reader,SOCIAL,3.0,19.5,6
+Wi-Fi Calling Service,SOCIAL,1.0,0.03,0
+GB Wassaph V8 for WassApp,SOCIAL,3.0,6.0,1
+"Helo - Discover, Share & Communicate",SOCIAL,3.71,37.5,0
+LivU,SOCIAL,4.7,51.5,43
+Tango - Live Video Broadcasts and Streaming Chats,SOCIAL,4.17,112.5,1138
+Kanix Play,SOCIAL,5.0,14.5,0
+Telegram X,SOCIAL,4.61,21.5,87
+HONOR Club,SOCIAL,5.0,15.5,0
+Instagram followers,SOCIAL,3.62,3.0,21
+StarMaker,SOCIAL,4.5,68.0,121
+Reports+ Followers Analytics for Instagram,SOCIAL,4.0,15.0,60
+Status Saver,SOCIAL,4.7,6.5,20
+Vidma video downloader,SOCIAL,0.0,5.0,0
+Get more likes & followers on Instagram - free,SOCIAL,5.0,17.5,1
+Profile download for Instagram (HD),SOCIAL,0.0,6.0,0
+Status Saver for WhatsApp - Save & Download Status,SOCIAL,0.0,12.0,0
+Status Saver for WhatsApp - Download & Save Status,SOCIAL,0.0,7.5,0
+شات لقاء | تعارف - دردشة,SOCIAL,0.0,9.5,0
+Status Saver - Downloader for Whatsapp,SOCIAL,0.0,9.0,0
+ملصقات الواتساب المتنوعة,SOCIAL,0.0,39.0,0
+FreFire 🔥 Stickers WAStickersApps  F🔥F,SOCIAL,0.0,15.5,0
+Gronda - Jobs & Skills for F&B Professionals,SOCIAL,0.0,36.5,0
+Active guests of VK,SOCIAL,0.0,9.5,0
+Camfect Chat – Text and Video Chat for Free,SOCIAL,0.0,78.5,0
+Insgrand - Follower Analyzer for Instagram,SOCIAL,0.0,6.5,0
+Likulator - Followers & Likes Analyzer 2020,SOCIAL,0.0,15.0,0
+TikFollowers - get tiktok followers & tiktok likes,SOCIAL,0.0,7.5,0
+Halu- غرف الدردشة الصوتية الجماعية,SOCIAL,5.0,62.5,0
+Voga - Play games and voice chat with new friends.,SOCIAL,0.0,28.0,0
+Tips for Facebook Messenger - Videos Guide,SOCIAL,0.0,17.0,0
+Seeya,SOCIAL,0.0,45.5,0
+Cartoon Stickers,SOCIAL,0.0,13.0,0
+Status  Saver - WA status saver,SOCIAL,0.0,3.0,0
+Oasis - Make Friends In Virtual World,SOCIAL,5.0,534.5,0
+TikPlus,SOCIAL,5.0,6.0,0
+YEP'S,SOCIAL,0.0,12.5,0
+Be Sport,SOCIAL,0.0,10.0,0
+Aspire Reo - Short Video App,SOCIAL,0.0,16.5,0
+Guide for Snapchat - Videos Tips,SOCIAL,0.0,17.5,0
+Sawa,SOCIAL,0.0,61.5,0
+Cameet - Video Chat with Strangers & Make Friends,SOCIAL,0.0,60.0,0
+Reports Analyzer - Stalker for Instagram Profile,SOCIAL,0.0,7.5,0
+Viewing Your Videos,SOCIAL,0.0,4.5,0
+"LiveMe Pro - Live Stream, Video Chat&Go Live!",SOCIAL,5.0,26.5,0
+Web Browser Beta Pro-Fastest Browser,SOCIAL,0.0,11.5,0
+Dark Mode for Facebook,SOCIAL,0.0,5.5,0
+Creality Cloud - 3D printing community,SOCIAL,0.0,22.5,0
+Gif - funny gifs for free animated christmas gifs,SOCIAL,0.0,8.0,0
+Followers for Instagram and Likes for Ig,SOCIAL,5.0,2.5,0
+🙏 Welcome GIF/Images Collection 💝,SOCIAL,0.0,9.5,0
+BOBA - Hóng chuyện ẩn danh,SOCIAL,0.0,26.5,0
+60 Second Video Meetings,SOCIAL,0.0,21.0,0
+Mastii - Made in India | Short Video App,SOCIAL,0.0,16.0,0
+Guide for Snack Video 2020,SOCIAL,0.0,3.0,0
+TrulyAfrican - African Dating App,SOCIAL,0.0,18.0,0
+IProfile - Who Viewed My Profile Instagram Analyze,SOCIAL,0.0,6.0,0
+Vkounter - analyzer of VK pages,SOCIAL,0.0,5.0,0
+Honeycam Chat - Live Video Chat & Meet,SOCIAL,0.0,19.5,0
+Voice GPS Navigation & Maps Tracker,SOCIAL,0.0,8.5,0
+Sherwa - Gaming Made Easy (Beta),SOCIAL,0.0,34.0,0
+Follow Manager for Free |InstaAI,SOCIAL,0.0,6.0,0
+Vid - Future of Social Media,SOCIAL,0.0,19.0,0
+Twitter,SOCIAL,4.28,19.5,2204
+LinkedIn,SOCIAL,4.01,29.5,179
+BIGO LIVE,SOCIAL,4.3,57.0,544
+HAGO,SOCIAL,4.18,73.5,257
+Comics Amino en Español,SOCIAL,5.0,99.0,2
+Threads from Instagram,SOCIAL,5.0,23.0,3
+Wapo,SOCIAL,3.5,26.5,4
+Hootsuite,SOCIAL,3.88,13.0,8
+"Vingle, Interest Network.",SOCIAL,3.0,26.0,3
+Repost for Instagram - Regrann,SOCIAL,4.58,24.0,0
+Undertale Amino,SOCIAL,4.33,106.0,66
+Wave - Voice Live Streaming,SOCIAL,0.0,75.5,0
+IGTV from Instagram - Watch IG Videos & Clips,SOCIAL,4.44,44.5,18
+Instagram Lite,SOCIAL,4.2,2.0,55
+JAUMO Dating – Find Your Someone,SOCIAL,4.36,17.5,85
+Tumblr,SOCIAL,4.5,20.5,481
+Meetup,SOCIAL,4.45,14.0,20
+Pi Network,SOCIAL,4.9,29.5,0
+WhatsApp Business,SOCIAL,4.26,32.5,155
+"Viber Messenger - Messages, Group Chats & Calls",SOCIAL,4.21,57.0,3627
+Пробив номера – определитель номера телефона,SOCIAL,0.0,8.5,0
+ピグパーティ～かわいいアバターでフレンドと楽しむアプリ。オシャレで可愛いファッションにきせかえよう,SOCIAL,4.33,61.5,0
+GoTrans,SOCIAL,0.0,28.5,0
+Pikomit,SOCIAL,0.0,27.5,0
+Currents,SOCIAL,4.39,14.0,1430
+Hello Play,SOCIAL,0.0,63.0,0
+Reddit,SOCIAL,4.6,41.0,100
+"HikeLand - Ludo, Video, Chat, Sticker, Messaging",SOCIAL,0.0,80.5,0
+Facebook Lite,SOCIAL,4.3,1.5,2546
+KakaoStory,SOCIAL,3.57,75.5,7
+BAND - App for all groups,SOCIAL,4.44,42.0,9
+Loops - يجمع العرب,SOCIAL,2.91,56.0,23
+Telegram Beta,SOCIAL,4.37,54.5,27
+XING – Your jobs and careers network,SOCIAL,3.67,37.0,0
+"Kumu - Pinoy Livestream, Gameshow and Community",SOCIAL,4.75,64.5,0
+InfluenceBooster,SOCIAL,0.0,9.0,0
+Mitron - India's Original Short Video App | Indian,SOCIAL,5.0,22.0,0
+LOCAL - An Extraordinary Social Media Anonymous ID,SOCIAL,0.0,20.5,0
+App4Pets - Pets social network,SOCIAL,0.0,28.5,0
+Public - Indian Local Videos,SOCIAL,0.0,20.0,0
+DIKSHA - Platform for School Education,SOCIAL,4.5,12.5,0
+Universal Copy,SOCIAL,4.55,5.5,47
+Folkspaper - Create your own headlines.,SOCIAL,0.0,38.5,0
+Tantan - Date For Real,SOCIAL,4.19,113.0,26
+Jeevansathi.com,SOCIAL,0.0,10.5,0
+Jodel - Local Student Community,SOCIAL,4.08,59.0,13
+FPS Amino for First Person Shooter,SOCIAL,0.0,107.5,0
+Babyz Amino for B.A.P.,SOCIAL,0.0,106.5,0
+Faith Of A Mustard Seed,SOCIAL,0.0,21.5,0
+Eddsworld Amino,SOCIAL,0.0,99.5,0
+LINE,COMMUNICATION,4.3,72.0,993
+Azar,COMMUNICATION,4.26,83.0,752
+WhatsApp Messenger,COMMUNICATION,4.21,31.0,28475
+UC Browser,COMMUNICATION,4.31,65.5,2119
+Messenger,COMMUNICATION,4.33,43.5,12408
+Gmail,COMMUNICATION,4.38,20.5,1528
+Google Duo – High quality video calls,COMMUNICATION,4.5,8.5,329
+Browser,COMMUNICATION,4.36,55.5,0
+Google Chrome,COMMUNICATION,4.35,7.0,3151
+"Discord - Talk, Video Chat & Hang Out with Friends",COMMUNICATION,4.56,83.0,823
+Favourite Contacts,COMMUNICATION,4.17,0.27,30
+Telegram,COMMUNICATION,4.57,40.5,1068
+"Viber Messenger - Messages, Group Chats & Calls",COMMUNICATION,4.21,57.0,3627
+Samsung text-to-speech engine,COMMUNICATION,3.98,9.5,52
+VidMate,COMMUNICATION,4.36,14.0,1420
+Messages,COMMUNICATION,3.86,18.0,260
+Samsung Internet Browser,COMMUNICATION,4.23,114.5,548
+Carrier Services,COMMUNICATION,4.37,17.0,170
+Opera browser with free VPN,COMMUNICATION,4.48,78.0,418
+Samsung Push Service,COMMUNICATION,4.47,4.5,214
+Samsung Clock,COMMUNICATION,3.4,20.5,292
+Samsung Messages,COMMUNICATION,4.02,47.0,116
+HTC Phone,COMMUNICATION,3.53,3.5,80
+Opera Mini - fast web browser,COMMUNICATION,4.46,15.0,712
+Messenger Lite,COMMUNICATION,1.0,11.0,32
+Samsung Contacts,COMMUNICATION,3.77,21.0,101
+Firefox Browser,COMMUNICATION,4.36,70.5,956
+Contacts Storage,COMMUNICATION,2.67,6.5,9
+WhatsApp Business,COMMUNICATION,4.26,32.5,155
+ANT Radio Service,COMMUNICATION,4.05,0.16,59
+﻿Skype – free IM & video calls,COMMUNICATION,4.32,41.0,1688
+Samsung Pay Framework,COMMUNICATION,4.5,47.0,26
+OMACP,COMMUNICATION,3.89,0.5,28
+Hangouts,COMMUNICATION,4.25,23.5,780
+Contacts,COMMUNICATION,4.46,12.0,56
+Contacts,COMMUNICATION,3.75,25.0,0
+Contacts,COMMUNICATION,3.86,9.5,111
+Remote Controls,COMMUNICATION,3.65,0.17,88
+UC Mini- Download Video Status & Movies,COMMUNICATION,4.12,15.0,288
+Messages,COMMUNICATION,3.6,9.0,262
+Yahoo Mail – Stay Organised,COMMUNICATION,4.63,24.5,350
+Yandex Browser with Protect,COMMUNICATION,4.61,147.0,222
+Deezer Music Player,COMMUNICATION,4.33,19.5,642
+AudioConnectionService,COMMUNICATION,4.2,0.15,0
+IVONA TTS,COMMUNICATION,2.6,0.32,10
+Torque Pro (OBD 2 & Car),COMMUNICATION,3.95,16.5,249
+Signal Private Messenger,COMMUNICATION,4.31,46.5,113
+E-mail,COMMUNICATION,3.64,10.5,139
+TextNow - Free US Phone Number,COMMUNICATION,4.32,26.0,642
+Truecaller,COMMUNICATION,4.55,49.0,1011
+Among Stickers for WhatsApp,COMMUNICATION,0.0,11.0,0
+"99pay Mobile, 00301 recharge",COMMUNICATION,0.0,21.5,0
+TikTokers Stickers para WhatsApp 2021,COMMUNICATION,0.0,10.5,0
+البنفسجي وتس عمر اب بلس الذهبي 2020,COMMUNICATION,0.0,9.5,0
+Stickers for WAStickerApps - Personal stickers,COMMUNICATION,0.0,8.0,0
+"Dialer, Phone, Call Block & Contacts",COMMUNICATION,0.0,8.5,0
+My Libyana,COMMUNICATION,0.0,6.0,0
+استرجاع الواتس اب القديم بسهولة,COMMUNICATION,0.0,2.5,0
+ONP Móvil,COMMUNICATION,0.0,13.0,0
+Si Bohay VPN - Virtual Private Network - Unblock,COMMUNICATION,5.0,12.5,0
+US Browser,COMMUNICATION,0.0,9.0,0
+Mongol Chat - Mongolian Social and Payment,COMMUNICATION,0.0,26.5,0
+Hotmail,COMMUNICATION,0.0,7.0,0
+Stickers Among Us WAStickerApps 2020,COMMUNICATION,5.0,19.5,0
+Slatch,COMMUNICATION,0.0,21.5,0
+Free IMEI Status Report Checker,COMMUNICATION,0.0,21.5,0
+SPC,COMMUNICATION,0.0,8.5,0
+Voice Messages & SMS: All language Translator 2021,COMMUNICATION,0.0,14.5,0
+UI Browser - Fast Downloader for UC Browser,COMMUNICATION,0.0,16.5,0
+Easy Status Saver,COMMUNICATION,0.0,11.5,0
+Call barring (block list),COMMUNICATION,0.0,4.0,0
+Llamaya - Área de cliente,COMMUNICATION,5.0,2.5,0
+Konoha Stickers Aniem WastickerApps be a Hokague,COMMUNICATION,0.0,21.5,0
+القارئ السريع,COMMUNICATION,0.0,4.5,0
+Tor - Dark Web: bulletin,COMMUNICATION,0.0,12.0,0
+PokeDialer,COMMUNICATION,0.0,9.0,0
+Text on Top - Vision,COMMUNICATION,0.0,1.5,0
+Privacy Contact,COMMUNICATION,0.0,2.0,0
+Laki Wifi,COMMUNICATION,0.0,9.5,0
+WAstickerApps New Animated Emojis 3D Stickers,COMMUNICATION,0.0,37.0,0
+Bharat messenger -  With Free Voice & Video Calls,COMMUNICATION,0.0,52.0,0
+New Telugu Stickers - WAStickerApps,COMMUNICATION,0.0,28.0,0
+Messages,COMMUNICATION,0.0,15.0,0
+Internet Explorer & Web Browser,COMMUNICATION,0.0,13.5,0
+Hindi Stickers for chat,COMMUNICATION,0.0,29.0,0
+ملصقات الحب بالعربية واتساب 😻 2020 WAStickerapps,COMMUNICATION,0.0,11.5,0
+All In One Emails,COMMUNICATION,0.0,6.0,0
+Mobile Response Messaging,COMMUNICATION,0.0,5.0,0
+Free Imo Beta Calls & video,COMMUNICATION,0.0,19.0,0
+My Jitsi Meet,COMMUNICATION,0.0,4.5,0
+A.T.U now,COMMUNICATION,0.0,23.0,0
+Love Flower Photo Frame,COMMUNICATION,0.0,18.5,0
+Fox Browser,COMMUNICATION,0.0,4.5,0
+Servizi mensa,COMMUNICATION,0.0,6.5,0
+USB LoRa Arduino,COMMUNICATION,0.0,2.0,0
+أجمل صور ورود متحركة  GIF,COMMUNICATION,0.0,3.5,0
+FINN MOBILE,COMMUNICATION,0.0,44.5,0
+Web Browser for Android,COMMUNICATION,0.0,5.0,0
+My Mobiuz - (My UMS),COMMUNICATION,0.0,2.0,0
+Cita Extranjería,COMMUNICATION,0.0,9.0,0
+LINE,COMMUNICATION,4.3,72.0,993
+Azar,COMMUNICATION,4.26,83.0,752
+WhatsApp Messenger,COMMUNICATION,4.21,31.0,28475
+UC Browser,COMMUNICATION,4.31,65.5,2119
+"Discord - Talk, Video Chat & Hang Out with Friends",COMMUNICATION,4.56,83.0,823
+Mi Lowi,COMMUNICATION,4.0,10.5,4
+Carista OBD2,COMMUNICATION,4.73,5.5,0
+Zangi Private Messenger,COMMUNICATION,4.7,43.0,10
+AntiNuisance - Call Blocker and SMS Blocker,COMMUNICATION,3.14,7.5,7
+Vivo Easy,COMMUNICATION,4.25,37.5,0
+WEB.DE Mail & Cloud,COMMUNICATION,4.5,17.0,6
+Voxer Walkie Talkie Messenger,COMMUNICATION,3.45,26.5,20
+Messenger,COMMUNICATION,4.33,43.5,12408
+Instagram Lite,COMMUNICATION,4.2,2.0,55
+Firefox Nightly,COMMUNICATION,4.31,75.5,13
+Gmail,COMMUNICATION,4.38,20.5,1528
+Yahoo Mail – Stay Organised,COMMUNICATION,4.63,24.5,350
+WhatsApp Business,COMMUNICATION,4.26,32.5,155
+"Viber Messenger - Messages, Group Chats & Calls",COMMUNICATION,4.21,57.0,3627
+Пробив номера – определитель номера телефона,COMMUNICATION,0.0,8.5,0
+Signal Private Messenger,COMMUNICATION,4.31,46.5,113
+The Elysian Residents App,COMMUNICATION,0.0,5.5,0
+Wisdom World School,COMMUNICATION,0.0,18.5,0
+Hyper-Reach™ Anywhere™,COMMUNICATION,0.0,2.5,0
+Whatscan,COMMUNICATION,5.0,12.0,0
+chomp SMS,COMMUNICATION,4.07,7.5,46
+USSD Codes,COMMUNICATION,0.0,0.71,0
+Occupy Residents,COMMUNICATION,0.0,5.5,0
+Messenger Kids – The Messaging App for Kids,COMMUNICATION,4.64,32.5,14
+Telegram Beta,COMMUNICATION,4.37,54.5,27
+"True Call Location - Caller ID, Family Tracker",COMMUNICATION,0.0,13.0,0
+SMS Organizer,COMMUNICATION,5.0,20.5,0
+Cốc Cốc Browser - Browse web fast & secured,COMMUNICATION,4.71,79.5,0
+SecuGen RD Service,COMMUNICATION,0.0,9.5,0
+Live Mobile Location & Find Distance,COMMUNICATION,0.0,10.0,0
+3CX Communications System,COMMUNICATION,0.0,4.5,0
+SSH/SFTP/FTP/TELNET Advanced Client - Admin Hands,COMMUNICATION,5.0,8.5,0
+Whats Web,COMMUNICATION,0.0,12.0,0
+Hiya - Caller ID & Block,COMMUNICATION,4.88,8.0,65
+Uniqueksa,COMMUNICATION,0.0,7.5,0
+Messenger Lite,COMMUNICATION,1.0,11.0,32
+mail.com mail,COMMUNICATION,4.27,13.5,15
+Fixed Line,COMMUNICATION,0.0,9.5,0
+THYPromise Community,COMMUNICATION,0.0,20.0,0
+Barrett 4050 Remote Control,COMMUNICATION,0.0,63.5,0
+BIG Launcher,COMMUNICATION,4.33,7.5,3
+GMX - Mail & Cloud,COMMUNICATION,4.26,17.0,19
+Mein HoT,COMMUNICATION,0.0,15.5,0
+Sticker Maker for WhatsApp,COMMUNICATION,5.0,19.0,0
+KAKOAK - CARE MORE,COMMUNICATION,0.0,71.5,0
+Snaptube,MULTIMEDIA,4.47,12.5,8594
+Netflix,MULTIMEDIA,3.74,15.5,5145
+YouTube,MULTIMEDIA,4.27,17.5,8469
+Google Play Music,MULTIMEDIA,4.38,15.0,1161
+Samsung Gallery,MULTIMEDIA,3.83,9.5,323
+VidMate,MULTIMEDIA,4.36,14.0,1420
+Shazam,MULTIMEDIA,4.43,7.5,435
+Video,MULTIMEDIA,4.39,3.0,66
+Samsung Internet Browser,MULTIMEDIA,4.23,114.5,548
+Photo Screensavers,MULTIMEDIA,4.22,0.47,32
+Samsung Voice Recorder,MULTIMEDIA,4.45,12.5,84
+Samsung Messages,MULTIMEDIA,4.02,47.0,116
+Smart View,MULTIMEDIA,4.0,4.5,13
+Music,MULTIMEDIA,4.21,118.0,170
+VLC for Android,MULTIMEDIA,4.44,31.0,701
+Snaptube,MULTIMEDIA,3.04,15.0,48
+Camera (AOSP),MULTIMEDIA,3.78,9.0,40
+Samsung Music,MULTIMEDIA,3.79,25.5,541
+Poweramp,MULTIMEDIA,4.42,8.0,892
+FM Radio,MULTIMEDIA,4.24,27.0,0
+Gallery,MULTIMEDIA,3.32,30.5,56
+Spotify Premium,MULTIMEDIA,1.83,5.5,64
+Messages,MULTIMEDIA,3.6,9.0,262
+1Mobile Market,MULTIMEDIA,4.22,8.5,1211
+AudioConnectionService,MULTIMEDIA,4.2,0.15,0
+Camera,MULTIMEDIA,3.43,5.0,136
+Mi Music,MULTIMEDIA,3.69,36.5,102
+Camera,MULTIMEDIA,2.91,20.5,87
+Mi Video,MULTIMEDIA,4.29,55.5,31
+withTV,MULTIMEDIA,4.2,1.0,5
+Virtual shot viewer,MULTIMEDIA,5.0,0.8,0
+Recorder,MULTIMEDIA,3.9,6.0,39
+Hancom Office Cell Viewer,MULTIMEDIA,4.5,57.5,4
+Camera360,MULTIMEDIA,4.15,53.0,379
+S Planner,MULTIMEDIA,3.24,5.0,174
+Poweramp Full Version Unlocker,MULTIMEDIA,3.91,0.13,982
+Gallery,MULTIMEDIA,3.92,29.5,74
+YouTube Video Downloader,MULTIMEDIA,4.25,12.0,36
+HD Audio Recorder,MULTIMEDIA,3.0,4.0,2
+Hancom Office Viewer,MULTIMEDIA,4.67,2.5,0
+视频,MULTIMEDIA,2.71,57.0,0
+RedPlay App,MULTIMEDIA,4.67,14.5,3
+Email,MULTIMEDIA,3.36,13.5,14
+Voice Recorder,MULTIMEDIA,3.59,0.93,27
+TuneIn Radio,MULTIMEDIA,3.88,13.5,214
+ES File Explorer  File Manager,MULTIMEDIA,4.6,2.0,3439
+Kids Gallery,MULTIMEDIA,3.25,2.5,4
+Tube mate 2.2.9,MULTIMEDIA,3.63,7.0,35
+Vivo Albums,MULTIMEDIA,4.6,206.5,10
+Dolby Atmos,MULTIMEDIA,3.39,132.5,186
+Tiktok تنزيل الفيديو,MULTIMEDIA,0.0,10.5,0
+Tiktokビデオダウンローダー,MULTIMEDIA,0.0,10.5,0
+Kids Show Messenger,MULTIMEDIA,0.0,51.0,0
+Tiktok वीडियो डाउनलोडर,MULTIMEDIA,0.0,10.5,0
+Tiktok Video Downloader,MULTIMEDIA,0.0,10.5,0
+New Islamic WASticker for WhatsApp,MULTIMEDIA,0.0,3.5,0
+Tiktok视频下载器,MULTIMEDIA,0.0,10.5,0
+загрузчик видео с Tiktok,MULTIMEDIA,0.0,10.5,0
+Tiktok 비디오 다운로더,MULTIMEDIA,0.0,10.5,0
+Descargador De Videos Tiktok,MULTIMEDIA,0.0,10.5,0
+Snaptube,MULTIMEDIA,4.47,12.5,8594
+Лайт HD ТВ - онлайн бесплатно,MULTIMEDIA,5.0,10.5,6
+BSPlayer,MULTIMEDIA,4.13,19.0,48
+VLC for Android,MULTIMEDIA,4.44,31.0,701
+Slideshow - Digital Signage player,MULTIMEDIA,5.0,17.5,1
+TuneIn Radio,MULTIMEDIA,3.88,13.5,214
+Samsung Internet Browser,MULTIMEDIA,4.23,114.5,548
+LBRY,MULTIMEDIA,4.5,52.5,0
+Mi Music,MULTIMEDIA,3.69,36.5,102
+Shazam,MULTIMEDIA,4.43,7.5,435
+YouTube,MULTIMEDIA,4.27,17.5,8469
+Youtube Downloader,MULTIMEDIA,3.82,6.5,17
+Youtube & Facebook Video Downloader,MULTIMEDIA,4.67,9.5,12
+Poweramp,MULTIMEDIA,4.42,8.0,892
+Play RSI,MULTIMEDIA,5.0,19.5,0
+Netflix,MULTIMEDIA,3.74,15.5,5145
+Samsung Voice Recorder,MULTIMEDIA,4.45,12.5,84
+Picture Manager,MULTIMEDIA,0.0,36.5,0
+YouTube Video Downloader,MULTIMEDIA,4.25,12.0,36
+"Tele2 TV — фильмы, ТВ и сериалы",MULTIMEDIA,4.56,59.0,0
+Shkabaj,MULTIMEDIA,5.0,13.0,0
+Mi Video,MULTIMEDIA,4.29,55.5,31
+Bluetooth Music  Widget Battery TWS Pods FREE,MULTIMEDIA,0.0,4.5,0
+GloudGames-Free experience!,MULTIMEDIA,3.85,59.5,74
+TubeDW,MULTIMEDIA,3.67,9.5,3
+Zapping TV para Android TV Box,MULTIMEDIA,4.0,8.5,2
+Samsung Music,MULTIMEDIA,3.79,25.5,541
+Love & Wedding Frames,MULTIMEDIA,3.0,3.5,1
+CAV,MULTIMEDIA,5.0,4.5,0
+VisioCare Box Application,MULTIMEDIA,0.0,3.0,0
+Samsung Gallery,MULTIMEDIA,3.83,9.5,323
+"Whistle!!!, online music player!",MULTIMEDIA,5.0,12.5,1
+EasyTV,MULTIMEDIA,0.0,102.0,0
+Sukha Kahlon,MULTIMEDIA,0.0,4.5,0
+Google Play Music,MULTIMEDIA,4.38,15.0,1161
+"WhatsAll - Status Saver, Deleted Msg Viewer",MULTIMEDIA,5.0,4.0,0
+Alfred,MULTIMEDIA,0.0,26.0,0
+Radio Caprice,MULTIMEDIA,0.0,12.0,0
+UCast,MULTIMEDIA,0.0,9.5,0
+Kids Show Messenger,MULTIMEDIA,0.0,51.0,0
+SOPlay,MULTIMEDIA,4.5,21.0,0
+Kids Magic Voice,MULTIMEDIA,4.0,13.5,0
+RHVoice,MULTIMEDIA,0.0,9.5,0
+Video Player All Format,MULTIMEDIA,4.25,4.5,8
+Gallery,MULTIMEDIA,3.32,30.5,56
+MBC mini,MULTIMEDIA,0.0,20.5,0
+Music,MULTIMEDIA,4.21,118.0,170
+Snapcast,MULTIMEDIA,0.0,5.5,0
+arkTube,MULTIMEDIA,5.0,13.5,4
+AstroXtv,MULTIMEDIA,5.0,11.5,0
+Termux,TOOLS,4.62,0.19,60
+KingRoot,TOOLS,4.09,9.0,4617
+HappyMod,TOOLS,3.52,5.5,124
+"Xender - Share Music&Video,Share Photo,Share File",TOOLS,4.32,7.5,191
+Google PLAY,TOOLS,4.07,35.0,14053
+Google Play services,TOOLS,4.13,42.0,6703
+Gboard – the Google Keyboard,TOOLS,4.25,71.5,1058
+Google Text-to-Speech,TOOLS,4.27,21.5,358
+Samsung One UI Home,TOOLS,3.61,10.5,493
+Android Accessibility Suite,TOOLS,4.3,15.0,584
+Google Calendar Sync,TOOLS,3.74,2.5,135
+Master for Minecraft- Launcher,TOOLS,4.46,21.5,12945
+Accessibility,TOOLS,3.87,22.5,53
+Browser,TOOLS,4.36,55.5,0
+DRParser Mode,TOOLS,4.33,0.08,9
+Google Contacts Sync,TOOLS,3.22,1.5,259
+Dictionnaire,TOOLS,3.85,10.5,39
+Cheat FreeFire Hack MOD,TOOLS,3.69,3.0,688
+Calendar,TOOLS,4.23,44.0,43
+Fast App Engine,TOOLS,4.86,53.0,0
+SwiftKey 2,TOOLS,2.41,0.45,115
+DiagMonAgent,TOOLS,4.29,1.0,31
+Find My Mobile,TOOLS,4.5,9.5,28
+ANT HAL Service,TOOLS,3.88,0.03,42
+Foundation,TOOLS,3.69,1.5,39
+AutoPreconfig,TOOLS,4.01,0.06,85
+Lucky Patcher,TOOLS,4.06,6.0,5581
+HiBoard,TOOLS,3.9,40.5,0
+Game Tools,TOOLS,3.79,12.5,178
+Samsung Calculator,TOOLS,4.36,3.0,114
+S Finder,TOOLS,4.3,1.5,40
+Link Sharing,TOOLS,3.0,6.5,3
+VidMate,TOOLS,4.36,14.0,1420
+Actualizacin de software,TOOLS,3.74,4.5,230
+Clean Master (Speed Booster),TOOLS,4.37,54.5,1769
+Shazam,TOOLS,4.43,7.5,435
+Video,TOOLS,4.39,3.0,66
+UltraCfg,TOOLS,4.0,0.11,0
+Google Play Services for AR,TOOLS,3.53,75.0,200
+Samsung Experience Service,TOOLS,4.97,31.0,32
+Digital Wellbeing,TOOLS,4.8,10.5,10
+UC Browser,TOOLS,4.31,65.5,2119
+LogsProvider,TOOLS,3.73,0.04,329
+Device Care,TOOLS,4.14,11.0,123
+BBCAgent,TOOLS,3.71,0.25,14
+HwModuleTest,TOOLS,4.72,3.5,43
+Sound picker,TOOLS,4.75,7.5,32
+NetworkDiagnostic,TOOLS,3.09,9.0,11
+EmergencyProvider,TOOLS,3.86,0.02,0
+Smart Switch,TOOLS,4.63,4.0,32
+Happy Apps Mod Manager - Super Manger 2020,TOOLS,0.0,3.0,0
+Witness (Whatsapp Tracker),TOOLS,4.17,5.0,6
+SHAREIT,TOOLS,0.0,6.5,0
+wifi wps pro,TOOLS,0.0,5.0,0
+wifi wps pro,TOOLS,0.0,5.0,0
+PIXDIT - Editor de Videos y Diapositivas 2020,TOOLS,0.0,32.5,0
+Downloader for Instagram and Tik Tok and facebook,TOOLS,0.0,5.0,0
+SpeedTest,TOOLS,0.0,6.5,0
+"Smart Security - Phone Cleaner, Booster, Defender",TOOLS,5.0,19.5,0
+"MV Bit master, MV master video status maker-MVBit",TOOLS,5.0,41.5,0
+مسلسلاتي | مسلسلات هندية,TOOLS,0.0,9.5,0
+Winzo Gold - Earn Money From MPL- T20 Play Games,TOOLS,0.0,5.0,0
+AppUpdater for Whats Plus 2021 GB Yo FM HeyMods,TOOLS,0.0,3.5,0
+Lightspeed VPN - Fast Speed VPN & Free,TOOLS,0.0,10.5,0
+Photo Gallery,TOOLS,0.0,5.0,0
+One Button Navigation Bar,TOOLS,0.0,4.5,0
+Superior Cleaner - Premium Phone Cleaner & Booster,TOOLS,0.0,7.5,0
+Whatscan for Whats web,TOOLS,0.0,6.0,0
+Vsmart Data transfer,TOOLS,0.0,4.0,0
+WiFi decifrar,TOOLS,0.0,10.0,0
+Vsmart,TOOLS,0.0,6.5,0
+VPN Free - Unlimited Proxy & Fast Unblock Master,TOOLS,0.0,10.0,0
+Moonscreen - Screen brightness,TOOLS,0.0,5.5,0
+Hot VPN 2020 - Super IP Changer School VPN,TOOLS,0.0,7.5,0
+Dot Vpn Free Unlimited Free VpnDot,TOOLS,0.0,8.0,0
+Monster VPN - Free Forever & Security VPN Proxy,TOOLS,5.0,7.5,0
+Net Speed Indicator & Speed Test,TOOLS,0.0,3.5,0
+Net Speed Status,TOOLS,0.0,4.5,0
+ShareIt India,TOOLS,0.0,6.5,0
+Launcher Google Play Services Settings (Shortcut),TOOLS,0.0,2.0,0
+"Camera Translator, Voice Translate, Learn Language",TOOLS,0.0,31.5,0
+Battery Sound Notification,TOOLS,0.0,7.5,0
+Whatscan For Whatsapp Web Scan,TOOLS,0.0,6.0,0
+Gallery for WhatsApp - Images Videos Voices Audio,TOOLS,4.0,9.5,0
+Smart Call Recorder Pro,TOOLS,3.0,12.0,1
+Video Call Recorder for WhatsApp,TOOLS,0.0,5.0,0
+App Backup & Restore,TOOLS,0.0,7.0,0
+Wifi Detector (Scanner),TOOLS,0.0,2.0,0
+"Docx Reader - Word, Document, Office Reader - 2021",TOOLS,0.0,13.5,0
+XAPK Installer,TOOLS,0.0,6.0,0
+PDF to JPG,TOOLS,0.0,2.5,0
+"QuickFox-永久免费的海外华人回国加速器，翻墙vpn访问大陆网络，解锁网易云音乐,爱奇艺等限制",TOOLS,0.0,35.5,0
+OTG Checker - USB OTG Compatibility Checker,TOOLS,0.0,2.5,0
+Couch Potato Free,TOOLS,0.0,0.41,0
+Bookmark Manager Free - Links Manager Free,TOOLS,5.0,3.0,1
+Arduino Bluetooth Commander,TOOLS,0.0,3.5,0
+Linterna Super Brillante,TOOLS,0.0,4.0,0
+Bluetooth Auto Connect - Devices Connect,TOOLS,0.0,4.0,0
+TomVPN Pro,TOOLS,0.0,22.5,0
+13033,TOOLS,5.0,2.0,0
+Termux,TOOLS,4.62,0.19,60
+KingRoot,TOOLS,4.09,9.0,4617
+HappyMod,TOOLS,3.52,5.5,124
+"Xender - Share Music&Video,Share Photo,Share File",TOOLS,4.32,7.5,191
+Call recorder,TOOLS,5.0,12.5,3
+Simple Speedcheck,TOOLS,4.66,19.0,29
+VLC Mobile Remote - PC Remote & Mac Remote Control,TOOLS,4.4,7.5,0
+Text Decoration - stylish text,TOOLS,5.0,6.0,0
+dotpict - Easy to Pixel Arts,TOOLS,4.8,16.0,10
+Overlays - Floating Apps Launcher,TOOLS,4.27,7.0,11
+Técnico Virtual – Suporte Técnico da Oi,TOOLS,4.38,15.5,8
+Extreme QR code reader & QR code scanner app free,TOOLS,5.0,1.0,3
+Yandex.Keyboard,TOOLS,4.9,41.0,10
+Yandex Browser (beta),TOOLS,4.5,147.0,0
+Screen Capture and Recorder - SCAR,TOOLS,4.35,6.0,20
+Storage Space,TOOLS,4.73,4.0,11
+UniFi Network,TOOLS,4.33,80.5,9
+EDF & MOI,TOOLS,5.0,10.5,0
+Mi Claro,TOOLS,5.0,13.5,0
+"Dr.Capsule - Antivirus, Cleaner, Booster",TOOLS,4.0,29.0,13
+Metal Detector,TOOLS,4.36,5.0,22
+myCricket,TOOLS,5.0,29.5,0
+Lantern,TOOLS,4.41,9.0,92
+Adobe Acrobat Reader,TOOLS,4.4,24.5,368
+TeamViewer Pilot,TOOLS,0.0,29.5,0
+"Calcy IV - Instant IV, PvP Rank & Raid-Counter",TOOLS,4.83,13.0,12
+Toolbox for Minecraft,TOOLS,4.0,11.5,6098
+Antutu benchmark,TOOLS,4.2,39.5,132
+Move to iOS,TOOLS,3.72,1.5,29
+"Poke Genie - IV, PvP & Raid Guide",TOOLS,4.81,21.5,21
+kWhapp – Strom & Gas Check,TOOLS,0.0,34.0,0
+Yahoo Mail – Stay Organised,TOOLS,4.63,24.5,350
+Animal Guide for ACNH,TOOLS,0.0,82.5,0
+[ROOT] Custom ROM Manager (Pro),TOOLS,4.57,4.0,0
+WiFi Thief Detector - Detect Who Use My WiFi,TOOLS,0.0,6.0,0
+Ufficio Postale,TOOLS,0.0,52.5,0
+Samsung Experience Service,TOOLS,4.97,31.0,32
+Speedtest by Ookla,TOOLS,4.53,23.5,352
+Voice Start,TOOLS,0.0,5.0,0
+MIS AA,TOOLS,0.0,13.5,0
+Metal Detector,TOOLS,4.0,11.5,1
+App Switcher - Ragdu,TOOLS,4.5,6.5,2
+مخفی کننده عکس و فیلم,TOOLS,0.0,6.0,0
+Duplicate Contacts Fixer and Remover,TOOLS,0.0,6.5,0
+OmegaCam - IP Camera Recorder,TOOLS,0.0,4.0,0
+All Apps Detector,TOOLS,0.0,9.0,0
+BlinkID - ID card and passport scanner,TOOLS,0.0,18.5,0
+MyFRITZ!App,TOOLS,4.0,13.5,4
+WiFiman,TOOLS,5.0,18.0,0
+150X Game Booster Pro,TOOLS,5.0,8.5,0
+Netflix,ENTERTAINMENT,3.74,15.5,5145
+Mobdro,ENTERTAINMENT,4.04,21.5,796
+Nimo TV,ENTERTAINMENT,4.36,77.0,87
+Aptoide,ENTERTAINMENT,4.36,20.5,18941
+S Suggest,ENTERTAINMENT,4.41,27.0,658
+Calendar,ENTERTAINMENT,4.23,44.0,43
+Foundation,ENTERTAINMENT,3.69,1.5,39
+Game Tools,ENTERTAINMENT,3.79,12.5,178
+Link Sharing,ENTERTAINMENT,3.0,6.5,3
+VidMate,ENTERTAINMENT,4.36,14.0,1420
+Kodi,ENTERTAINMENT,4.04,64.0,608
+Samsung Billing,ENTERTAINMENT,4.37,13.5,92
+Actualizacin de software,ENTERTAINMENT,3.74,4.5,230
+Google Play Games,ENTERTAINMENT,4.23,17.0,2333
+Roblox,ENTERTAINMENT,4.45,81.5,18967
+Video,ENTERTAINMENT,4.39,3.0,66
+Samsung Experience Service,ENTERTAINMENT,4.97,31.0,32
+Amazon Prime Video,ENTERTAINMENT,3.52,30.5,329
+Sound picker,ENTERTAINMENT,4.75,7.5,32
+Device security,ENTERTAINMENT,3.26,5.0,38
+YouTube Pink,ENTERTAINMENT,4.27,66.5,33
+Samsung Keyboard,ENTERTAINMENT,3.68,69.5,201
+Carrier Services,ENTERTAINMENT,4.37,17.0,170
+Samsung Clock,ENTERTAINMENT,3.4,20.5,292
+Samsung Messages,ENTERTAINMENT,4.02,47.0,116
+Bixby Home,ENTERTAINMENT,3.84,17.5,64
+Maps of Among Us for Minecraft PE,ENTERTAINMENT,3.07,6.5,41
+Samsung capture,ENTERTAINMENT,4.0,11.5,4
+SoundAlive,ENTERTAINMENT,4.14,3.5,43
+Samsung Contacts,ENTERTAINMENT,3.77,21.0,101
+FM Radio,ENTERTAINMENT,3.25,16.5,40
+Device Management,ENTERTAINMENT,3.74,7.0,19
+Phone by Google – Caller ID and spam protection,ENTERTAINMENT,4.08,19.5,84
+Reminder,ENTERTAINMENT,4.0,14.5,14
+Wallpapers,ENTERTAINMENT,4.41,2.5,29
+Magic Tiles 3,ENTERTAINMENT,4.45,91.0,277
+Fun Race 3D,ENTERTAINMENT,4.09,66.5,57
+YouTube for Android TV,ENTERTAINMENT,3.15,18.5,6377
+Samsung account,ENTERTAINMENT,3.85,29.5,212
+Mobile networks,ENTERTAINMENT,3.15,10.0,20
+Files,ENTERTAINMENT,4.37,58.5,142
+"Cheats for GTA 5, SAN ANDREAS, GTA 4",ENTERTAINMENT,3.55,14.5,75
+﻿Skype – free IM & video calls,ENTERTAINMENT,4.32,41.0,1688
+Google Go,ENTERTAINMENT,4.78,11.0,46
+Phone,ENTERTAINMENT,3.15,25.0,170
+Samsung Themes,ENTERTAINMENT,3.75,9.5,273
+GOS Legacy,ENTERTAINMENT,4.41,2.0,63
+Game Launcher,ENTERTAINMENT,4.0,19.5,208
+Samsung Galaxy Friends,ENTERTAINMENT,4.43,11.0,7
+[Samsung] Always On Display,ENTERTAINMENT,2.97,16.5,99
+Maps of Among Us for Minecraft PE,ENTERTAINMENT,3.07,6.5,41
+"9UHD, 9Filmes, Series, TV Online +.",ENTERTAINMENT,4.0,13.0,0
+Cobra ULTRA,ENTERTAINMENT,0.0,79.5,0
+Flix iptv,ENTERTAINMENT,0.0,14.5,0
+Fake Call Prank with Among us,ENTERTAINMENT,0.0,13.5,0
+Peliculas Estrenos,ENTERTAINMENT,5.0,4.0,1
+GB Wasahp ProV8-Status Saver For GB Whatsapp Guide,ENTERTAINMENT,0.0,9.0,0
+Tivify,ENTERTAINMENT,0.0,16.5,0
+ILHA TV ONLINE BRASIL 2021,ENTERTAINMENT,0.0,9.5,0
+A Fazenda 12 ao vivo,ENTERTAINMENT,0.0,3.0,0
+Channel M-Sub For Android Tv & Android Box,ENTERTAINMENT,0.0,29.5,0
+Open TV - IPTV Player,ENTERTAINMENT,0.0,6.5,0
+Meme Soundboard 2020,ENTERTAINMENT,4.71,33.5,0
+TV Malaysia - Live Streaming TV Malaysia Online,ENTERTAINMENT,0.0,2.5,0
+Teev Wallpaper 4K,ENTERTAINMENT,5.0,17.0,0
+FilmPlus,ENTERTAINMENT,4.75,20.0,0
+Free Movies and Series,ENTERTAINMENT,0.0,7.5,0
+Guide for People Battle Playground,ENTERTAINMENT,0.0,8.0,0
+Among Us Tips and Tricks,ENTERTAINMENT,0.0,16.5,0
+جديد مسلسلات  كرتون و انمي مترجم,ENTERTAINMENT,0.0,6.5,0
+TV India - Indian TV Channel Live Streaming,ENTERTAINMENT,0.0,2.5,0
+Among Us - Guide and Drawable Maps,ENTERTAINMENT,0.0,14.0,0
+Fake call Prank Kpop-Jungkook BTS,ENTERTAINMENT,0.0,23.5,0
+Flash Player for Android,ENTERTAINMENT,5.0,11.0,1
+Guide For Fall Guys Game New,ENTERTAINMENT,0.0,5.0,0
+Among Us skins for minecraft,ENTERTAINMENT,0.0,9.0,0
+Syncler - One app to sync them all,ENTERTAINMENT,5.0,77.0,0
+افلام 2020 مترجمة,ENTERTAINMENT,0.0,4.5,0
+Watch Any Korea and Chinese Drama,ENTERTAINMENT,5.0,7.0,1
+Big Cash Tips - Earn Money from Big Cash Games,ENTERTAINMENT,0.0,7.5,0
+Кинопоиск,ENTERTAINMENT,0.0,5.5,0
+Live Sport,ENTERTAINMENT,0.0,9.5,0
+Fun Color：Coloring Games & Happy Color by Number,ENTERTAINMENT,5.0,16.0,0
+جديد مسلسلات عالم الكرتون و الانمي مترجم,ENTERTAINMENT,0.0,6.5,0
+Mod GTA V for Minecraft PE,ENTERTAINMENT,0.0,9.0,0
+Hotstar Live TV Show - Free Movies HD TV Guide,ENTERTAINMENT,0.0,10.5,0
+Videos para Whatsapp,ENTERTAINMENT,0.0,5.0,0
+PolBox.TV,ENTERTAINMENT,0.0,4.5,0
+Онлайн Телевидение,ENTERTAINMENT,0.0,17.5,0
+100 Sound Buttons,ENTERTAINMENT,5.0,46.5,0
+Guía de Fr33 Pro,ENTERTAINMENT,0.0,17.0,0
+Realistic shader mods. Shaders for MCPE,ENTERTAINMENT,0.0,6.5,0
+LiveTV BOX,ENTERTAINMENT,0.0,87.5,0
+GV Videos - Just Watching,ENTERTAINMENT,0.0,3.5,0
+مسلسل الهيبة الرد ٤,ENTERTAINMENT,0.0,4.5,0
+Coloring page maker - create your coloring pages,ENTERTAINMENT,0.0,54.0,0
+"Kinopoisk - movies, TV series, cartoons",ENTERTAINMENT,0.0,7.5,0
+FakeMe,ENTERTAINMENT,0.0,15.0,0
+Samsung TV Plus,ENTERTAINMENT,3.0,8.0,0
+Hiro Pro - Peliculas y Series,ENTERTAINMENT,5.0,12.5,0
+Netflix,ENTERTAINMENT,3.74,15.5,5145
+Mobdro,ENTERTAINMENT,4.04,21.5,796
+Nimo TV,ENTERTAINMENT,4.36,77.0,87
+CuriosityStream - Stream Documentaries,ENTERTAINMENT,3.0,13.0,4
+Movies Anywhere,ENTERTAINMENT,4.0,17.0,0
+PNP–Portable North Pole™ Calls & Videos from Santa,ENTERTAINMENT,4.54,11.5,13
+Kids Place - Parental Control & Child Lock,ENTERTAINMENT,5.0,11.0,0
+MBC,ENTERTAINMENT,1.0,8.5,0
+"Ticketmaster－Buy, Sell Tickets to Concerts, Sports",ENTERTAINMENT,4.0,17.0,6
+Fleets | Video | Tweet Downloader,ENTERTAINMENT,4.16,4.0,0
+REDBOX,ENTERTAINMENT,3.91,23.0,11
+VeraTV,ENTERTAINMENT,5.0,11.0,3
+El Master de la Biblia Trivia,ENTERTAINMENT,5.0,33.0,10
+Fandango Movie Tickets & Times,ENTERTAINMENT,4.92,15.5,12
+Decision Roulette,ENTERTAINMENT,4.94,26.5,17
+Manoto,ENTERTAINMENT,4.5,24.0,16
+Telecine,ENTERTAINMENT,3.23,12.0,135
+MEO Go,ENTERTAINMENT,4.18,13.0,11
+FUNK BRASIL,ENTERTAINMENT,4.02,14.0,41
+Zombie Castaways,ENTERTAINMENT,4.35,128.5,337
+"24ТВ (Телефоны и Планшеты) – ТВ, фильмы и сериалы",ENTERTAINMENT,0.0,21.5,0
+IGTV from Instagram - Watch IG Videos & Clips,ENTERTAINMENT,4.44,44.5,18
+Facebook Gaming,ENTERTAINMENT,4.2,58.0,10
+"Voot Select Originals, Colors TV, MTV & more",ENTERTAINMENT,4.55,21.0,73
+WebMD,ENTERTAINMENT,4.0,30.0,0
+Upper Player,ENTERTAINMENT,0.0,67.0,0
+Paint By Number - Coloring Book & Color by Number,ENTERTAINMENT,4.79,55.5,29
+April Coloring - Oil Paint by Numbers for adults.,ENTERTAINMENT,4.0,29.0,0
+Animal Guide for ACNH,ENTERTAINMENT,0.0,82.5,0
+Cinemark Theatres,ENTERTAINMENT,3.0,28.5,0
+Regal,ENTERTAINMENT,3.0,72.5,0
+Samsung Experience Service,ENTERTAINMENT,4.97,31.0,32
+Currents,ENTERTAINMENT,4.39,14.0,1430
+Eri TV,ENTERTAINMENT,0.0,6.0,0
+Myanmar 2D3D App,ENTERTAINMENT,0.0,6.0,0
+The Sims™ Mobile,ENTERTAINMENT,4.2,105.0,6511
+مسلسل الاختيار,ENTERTAINMENT,0.0,4.5,0
+DiziMax - Free Movies and Series,ENTERTAINMENT,0.0,11.0,0
+Chinese films and TV series,ENTERTAINMENT,0.0,16.5,0
+Uz Tv Uzbekistan,ENTERTAINMENT,0.0,8.0,0
+AstroMatrix Birth Chart Synastry Horoscopes,ENTERTAINMENT,0.0,28.0,0
+Лайт HD ТВ - онлайн бесплатно,ENTERTAINMENT,5.0,10.5,6
+Nimo TV for Streamer - Go Live,ENTERTAINMENT,4.67,29.5,0
+Indian Video Songs - Indian Songs - 5000+ Songs,ENTERTAINMENT,0.0,8.5,0
+Injustice 2,ENTERTAINMENT,4.23,877.5,996
+Cooking Express,ENTERTAINMENT,0.0,87.5,0
+Drive Ahead!,ENTERTAINMENT,4.53,55.5,610
+TVI Player,ENTERTAINMENT,5.0,15.5,3
+Aura Plus,ENTERTAINMENT,0.0,7.5,0
+AlloCine,ENTERTAINMENT,4.75,35.0,4
+LinkedIn,BUSINESS,4.01,29.5,179
+Google PLAY,BUSINESS,4.07,35.0,14053
+Samsung Calculator,BUSINESS,4.36,3.0,114
+ZOOM Cloud Meetings,BUSINESS,3.48,16.0,86
+Microsoft Teams,BUSINESS,3.96,84.0,0
+Secure Folder,BUSINESS,4.05,15.5,62
+Google Meet – Secure video meetings,BUSINESS,3.57,19.0,47
+WPS Office + PDF,BUSINESS,4.29,19.5,481
+Facebook Business Suite,BUSINESS,4.35,70.0,242
+Hancom Office S Viewer,BUSINESS,4.56,39.5,16
+Amazon Flex,BUSINESS,4.36,81.5,11
+Microsoft Authenticator,BUSINESS,4.87,58.5,31
+PowerDirector Pro,BUSINESS,4.54,42.0,101
+Indeed Job Search,BUSINESS,4.46,4.5,52
+Finance,BUSINESS,2.33,2.0,3
+Adobe Scan,BUSINESS,4.41,14.5,29
+Uber Driver,BUSINESS,3.51,73.5,170
+Group Play,BUSINESS,4.08,43.0,84
+File Commander - File Manager & Free Cloud,BUSINESS,4.35,15.0,260
+WPS Office Lite,BUSINESS,4.49,80.5,55
+POLARIS Office Viewer 5,BUSINESS,4.0,21.5,27
+e-Devlet Kapısı,BUSINESS,2.33,8.5,0
+Cisco Webex Meetings,BUSINESS,4.1,69.5,10
+حراج,BUSINESS,4.33,14.0,18
+Bluetooth Audio Widget Battery FREE,BUSINESS,4.67,5.0,3
+LG Suporte,BUSINESS,5.0,2.0,0
+IQ Option X,BUSINESS,3.67,71.5,0
+"Cheetah Keyboard -   Emoji,Swype,DIY Themes",BUSINESS,4.55,34.5,164
+FX File Explorer,BUSINESS,4.52,9.0,94
+McMoney,BUSINESS,3.86,5.0,14
+"Vault - Hide Pics & Videos, App Lock, Free Backup",BUSINESS,4.57,16.5,154
+Почта России,BUSINESS,4.63,13.5,16
+Visual Voicemail by MetroPCS,BUSINESS,4.25,8.5,0
+Slack,BUSINESS,4.63,71.5,32
+Scanner App To PDF - TapScanner,BUSINESS,4.8,17.5,0
+Honor Store,BUSINESS,5.0,20.5,0
+"sahibinden.com: Emlak,Araba,Alışveriş ve Diğerleri",BUSINESS,4.83,23.0,12
+Facebook Ads Manager,BUSINESS,4.79,15.5,0
+imo ads,BUSINESS,4.46,7.0,26
+Aqua Mail - Email app for Any Email,BUSINESS,4.79,18.0,62
+InfoJobs - Job Search,BUSINESS,4.45,10.0,22
+Mon Espace - Pôle emploi,BUSINESS,4.67,68.5,49
+Jazz World - Manage Your Jazz Account,BUSINESS,4.62,14.5,13
+"Polaris Office - Free Docs, Sheets, Slides + PDF",BUSINESS,4.6,28.0,81
+Box,BUSINESS,4.48,54.5,120
+Glover,BUSINESS,5.0,19.0,0
+Canara eInfobook,BUSINESS,0.0,2.5,0
+Samsung Pay mini,BUSINESS,5.0,28.0,3
+Поиск работы на hh. Вакансии рядом с домом,BUSINESS,4.8,18.5,5
+App Store,BUSINESS,3.91,11.5,11
+"Pmu - pmub: gain, pronostic, journal hippique",BUSINESS,0.0,1.5,0
+Enel-Codensa,BUSINESS,0.0,29.0,0
+BEES Colombia,BUSINESS,0.0,32.0,0
+MyAXA Egypt,BUSINESS,0.0,87.0,0
+Extrabat Today,BUSINESS,0.0,5.5,0
+iziwork - offres d'emploi et missions en intérim,BUSINESS,0.0,21.5,0
+White Horse Ceramic,BUSINESS,0.0,30.0,0
+alt.hr,BUSINESS,0.0,13.5,0
+Uber Eats Manager,BUSINESS,0.0,12.0,0
+QMS - Newroz Telecom,BUSINESS,0.0,23.5,0
+MCF - بنكي,BUSINESS,0.0,22.5,0
+Pošta Srbije,BUSINESS,0.0,4.5,0
+Litro X Litro PROFECO,BUSINESS,0.0,72.5,0
+OOMCO World,BUSINESS,0.0,50.0,0
+Ka-Partner App,BUSINESS,0.0,14.0,0
+FORZA Mobile Tech,BUSINESS,0.0,11.5,0
+MHT/MHTML Viewer & MHTML to PDF Converter,BUSINESS,0.0,21.0,0
+Partizan,BUSINESS,0.0,15.5,0
+Moja Croatia,BUSINESS,0.0,80.0,0
+ACS Mobile App,BUSINESS,0.0,18.5,0
+PBCAM,BUSINESS,5.0,33.5,0
+DPD,BUSINESS,0.0,37.5,0
+Uniodonto SJC,BUSINESS,0.0,30.5,0
+Public Pension Agency | PPA,BUSINESS,0.0,31.5,0
+Resume / CV,BUSINESS,0.0,7.5,0
+Plugin,BUSINESS,0.0,0.02,0
+Bitcoin Mining Player,BUSINESS,0.0,24.0,0
+EuroPrime SIRIX Mobile,BUSINESS,0.0,19.0,0
+Tienda Bavaria,BUSINESS,0.0,25.5,0
+Wood Tracking,BUSINESS,0.0,1.0,0
+Humatrix,BUSINESS,0.0,80.0,0
+Plugin,BUSINESS,0.0,0.02,0
+IYS,BUSINESS,0.0,6.5,0
+HoleriteOnLine,BUSINESS,0.0,2.0,0
+Red RPS,BUSINESS,0.0,38.0,0
+GOconnect,BUSINESS,0.0,9.5,0
+AfricaWork,BUSINESS,0.0,5.0,0
+Wifi Manager,BUSINESS,0.0,5.5,0
+СберАвто,BUSINESS,0.0,13.5,0
+Connect Track,BUSINESS,0.0,2.0,0
+MyPayRoll,BUSINESS,0.0,17.0,0
+AIS Easy App,BUSINESS,0.0,53.5,0
+Tokko - Buat Toko Online Gratis cuma 15 Detik,BUSINESS,0.0,15.5,0
+My Glue,BUSINESS,0.0,14.5,0
+AfroTie - Ethiopia : Houses Cars Jobs Classifieds,BUSINESS,0.0,6.0,0
+Evrotrust,BUSINESS,0.0,64.5,0
+True Smart Merchant,BUSINESS,5.0,21.0,0
+Moje Makro,BUSINESS,0.0,29.0,0
+Olympia Fitness,BUSINESS,0.0,6.0,0
+Личный кабинет Эвотора,BUSINESS,0.0,5.0,0
+LinkedIn,BUSINESS,4.01,29.5,179
+SKYtel,BUSINESS,4.5,58.0,4
+ROP - Royal Oman Police,BUSINESS,3.0,87.5,1
+Pracuj.pl - Jobs. Find out if you are not looking,BUSINESS,4.0,23.0,0
+WM Screeners,BUSINESS,5.0,11.5,1
+Profession - állások azonnal,BUSINESS,0.0,33.0,0
+AutoScout24 Switzerland – Find your new car,BUSINESS,5.0,23.0,2
+Check Point Capsule VPN,BUSINESS,2.0,10.0,2
+CV Maker App Free,BUSINESS,3.67,7.0,6
+ESET Endpoint Security,BUSINESS,4.2,10.0,5
+Pulse for Booking.com partners,BUSINESS,4.67,19.5,3
+Lyft Driver,BUSINESS,4.6,96.0,0
+SmartOffice - View & Edit MS Office files & PDFs,BUSINESS,3.23,11.5,26
+Amazon Seller,BUSINESS,4.4,14.5,0
+App para repartidores - Soy Rappi,BUSINESS,3.75,28.5,0
+WorkIndia Job Search App - Free HR contact direct,BUSINESS,0.0,13.0,0
+SureLock Kiosk Lockdown,BUSINESS,0.0,27.5,0
+S-OIL e-Biz,BUSINESS,0.0,3.0,0
+InfoJobs - Job Search,BUSINESS,4.45,10.0,22
+"Kiosk 24x7 - Offline Surveys, Signatures, Forms",BUSINESS,0.0,17.0,0
+TMBill Atlantic MPOS- Restaurant POS,BUSINESS,0.0,15.5,0
+Destiny Mobile,BUSINESS,0.0,29.5,0
+Destiny Mobile+,BUSINESS,0.0,24.5,0
+Houzz Pro,BUSINESS,0.0,24.5,0
+Nova Poshta,BUSINESS,3.0,12.5,7
+PLN Mobile,BUSINESS,0.0,2.5,0
+Store holder - simple online warehouse management,BUSINESS,0.0,7.5,0
+Jwelly Customer | Jewellery Management System App,BUSINESS,0.0,13.5,0
+BlinkID - ID card and passport scanner,BUSINESS,0.0,18.5,0
+Navkar Digital Institute,BUSINESS,0.0,30.5,0
+Xpressbees - New Unified App,BUSINESS,0.0,12.0,0
+Mi Lifestyle Marketing Global Private Limited,BUSINESS,0.0,15.5,0
+SUVIDHA,BUSINESS,0.0,31.0,0
+XING – Your jobs and careers network,BUSINESS,3.67,37.0,0
+Herbalife Nutrition Point of Sale,BUSINESS,0.0,10.5,0
+Google PLAY,BUSINESS,4.07,35.0,14053
+DHL Express Mobile,BUSINESS,0.0,34.5,0
+MiGrocer - Create and Manage Your Online Store,BUSINESS,0.0,19.5,0
+Mobile Doc Scanner (MDScan) + OCR,BUSINESS,3.36,15.0,11
+mSales,BUSINESS,0.0,34.5,0
+Microsoft Teams,BUSINESS,3.96,84.0,0
+AndrOpen Office,BUSINESS,4.16,105.5,19
+플로우 엔터프라이즈 : 서버설치형 협업툴,BUSINESS,0.0,23.5,0
+FOUR CONTENT,BUSINESS,0.0,10.0,0
+ASMPT Mobile,BUSINESS,0.0,5.5,0
+WeFast,BUSINESS,0.0,16.0,0
+Forma Turismo,BUSINESS,0.0,42.0,0
+ToolWatch,BUSINESS,0.0,29.0,0
+ETrackings - Tracking parcel & Notify,BUSINESS,0.0,10.5,0
+BEES South Africa,BUSINESS,0.0,43.0,0
+Mobizen Screen Recorder,PRODUCTIVITY,4.3,28.0,5770
+Aptoide,PRODUCTIVITY,4.36,20.5,18941
+Microsoft SwiftKey Keyboard,PRODUCTIVITY,4.4,10.0,1173
+Microsoft Office,PRODUCTIVITY,4.56,92.5,45
+Samsung One UI Home,PRODUCTIVITY,3.61,10.5,493
+S Suggest,PRODUCTIVITY,4.41,27.0,658
+Microsoft Word,PRODUCTIVITY,4.4,117.5,477
+Microsoft PowerPoint,PRODUCTIVITY,4.36,109.0,244
+SwiftKey 2,PRODUCTIVITY,2.41,0.45,115
+Find My Mobile,PRODUCTIVITY,4.5,9.5,28
+Samsung Calculator,PRODUCTIVITY,4.36,3.0,114
+Link Sharing,PRODUCTIVITY,3.0,6.5,3
+Microsoft Excel,PRODUCTIVITY,4.46,114.5,213
+Aptoide TV,PRODUCTIVITY,4.38,12.0,274
+Microsoft Outlook,PRODUCTIVITY,4.13,86.5,449
+UC Browser,PRODUCTIVITY,4.31,65.5,2119
+Google Calendar,PRODUCTIVITY,4.57,24.0,171
+Device Care,PRODUCTIVITY,4.14,11.0,123
+Google Sheets,PRODUCTIVITY,4.4,28.5,89
+KingRoot,PRODUCTIVITY,4.09,9.0,4617
+Google Slides,PRODUCTIVITY,4.49,40.5,91
+Photo Screensavers,PRODUCTIVITY,4.22,0.47,32
+Adobe Acrobat Reader,PRODUCTIVITY,4.4,24.5,368
+Samsung Keyboard,PRODUCTIVITY,3.68,69.5,201
+Knox Enrollment Service,PRODUCTIVITY,4.65,4.5,17
+Samsung Clock,PRODUCTIVITY,3.4,20.5,292
+SecurityLogAgent,PRODUCTIVITY,4.77,3.5,26
+Bixby Home,PRODUCTIVITY,3.84,17.5,64
+Samsung My Files,PRODUCTIVITY,3.99,10.0,215
+Opera Mini - fast web browser,PRODUCTIVITY,4.46,15.0,712
+Game Suite Huawei,PRODUCTIVITY,4.17,18.0,30
+Health Service,PRODUCTIVITY,3.56,0.14,0
+Samsung Notes,PRODUCTIVITY,4.07,49.0,95
+"AliExpress - Smarter Shopping, Better Living",PRODUCTIVITY,4.24,38.5,894
+Google Docs,PRODUCTIVITY,4.48,32.0,148
+Reminder,PRODUCTIVITY,4.0,14.5,14
+Appstore,PRODUCTIVITY,3.78,3.5,668
+Microsoft OneNote,PRODUCTIVITY,4.52,139.0,100
+Dropbox,PRODUCTIVITY,4.35,23.0,1172
+Samsung account,PRODUCTIVITY,3.85,29.5,212
+Your Phone Companion - Link to Windows,PRODUCTIVITY,4.4,41.0,58
+Google Go,PRODUCTIVITY,4.78,11.0,46
+Wi-Fi Tips,PRODUCTIVITY,4.33,0.63,15
+Selettore sfondo animato,PRODUCTIVITY,3.68,0.43,63
+Samsung Email,PRODUCTIVITY,4.6,27.0,86
+[Samsung] Always On Display,PRODUCTIVITY,2.97,16.5,99
+Bixby Voice,PRODUCTIVITY,2.83,41.0,63
+Google Meet – Secure video meetings,PRODUCTIVITY,3.57,19.0,47
+WPS Office + PDF,PRODUCTIVITY,4.29,19.5,481
+Camera (AOSP),PRODUCTIVITY,3.78,9.0,40
+Mi Calendar,PRODUCTIVITY,0.0,19.0,0
+Email Book,PRODUCTIVITY,0.0,14.0,0
+Simple Photo Widget,PRODUCTIVITY,0.0,3.0,0
+Mongolian keyboard,PRODUCTIVITY,0.0,6.0,0
+ادوات تحرير الفيديو,PRODUCTIVITY,0.0,27.5,0
+Mongolian Keyboard,PRODUCTIVITY,0.0,10.5,0
+Firma Documentos,PRODUCTIVITY,0.0,18.5,0
+Mongolian keyboard,PRODUCTIVITY,0.0,9.0,0
+Desk Clock,PRODUCTIVITY,0.0,3.0,0
+QR Code Generator - QR Code Creator & QR Maker,PRODUCTIVITY,0.0,17.0,0
+PDFO - Photo to PDF Converter,PRODUCTIVITY,0.0,8.5,0
+Movistar Cloud,PRODUCTIVITY,0.0,75.5,0
+Contact Backup,PRODUCTIVITY,0.0,13.5,0
+Camera Scanner - Free Document & PDF Scanner App,PRODUCTIVITY,0.0,29.5,0
+مشاركة ونقل الملفات,PRODUCTIVITY,0.0,6.0,0
+SuperDisplay - Virtual Monitor & Graphics Tablet,PRODUCTIVITY,0.0,5.5,0
+Secure PDF Viewer,PRODUCTIVITY,0.0,1.5,0
+Chat Track,PRODUCTIVITY,5.0,5.5,0
+Sticko - Free Sticky Notes App,PRODUCTIVITY,0.0,4.0,0
+AliExplorer - Track AliExpress Packages,PRODUCTIVITY,0.0,4.0,0
+NFS Manager,PRODUCTIVITY,0.0,3.0,0
+MojeDelo.com - Dnevno sveži zaposlitveni oglasi!,PRODUCTIVITY,0.0,10.5,0
+Business card scanner by Covve,PRODUCTIVITY,0.0,16.0,0
+TIFF to PDF Converter,PRODUCTIVITY,0.0,2.5,0
+AlmaGo!,PRODUCTIVITY,0.0,51.5,0
+Easy Cam PDF- Photo to PDF maker | free,PRODUCTIVITY,0.0,9.5,0
+Contacts To PDF - Phone Contacts PDF Export,PRODUCTIVITY,0.0,13.5,0
+Punjab mSewa,PRODUCTIVITY,0.0,24.5,0
+Voice To Text,PRODUCTIVITY,0.0,3.0,0
+All Document Scanner And PDF Creator App 2020,PRODUCTIVITY,0.0,15.5,0
+Workport.pl - Work in Poland,PRODUCTIVITY,0.0,47.0,0
+ETL Services,PRODUCTIVITY,0.0,8.0,0
+CamScanner,PRODUCTIVITY,0.0,58.0,0
+My Free,PRODUCTIVITY,0.0,8.5,0
+AD DOF,PRODUCTIVITY,0.0,34.5,0
+WhatsPower,PRODUCTIVITY,0.0,7.0,0
+IrenYou,PRODUCTIVITY,0.0,10.0,0
+eSaathi Chandigarh Police esathi,PRODUCTIVITY,0.0,9.5,0
+၂၀၂၀ ပြက္ခဒိန် (2020 Calendar),PRODUCTIVITY,0.0,23.5,0
+Cara Cek Saldo Rekening BRI di HP Mudah,PRODUCTIVITY,0.0,8.0,0
+Smart Spain,PRODUCTIVITY,0.0,16.5,0
+Colourpin,PRODUCTIVITY,0.0,63.0,0
+Flashlight Plus,PRODUCTIVITY,0.0,8.5,0
+Dropbox Passwords - Secure Password Manager,PRODUCTIVITY,0.0,9.0,0
+Host Pro Client App,PRODUCTIVITY,0.0,4.0,0
+Amazon Honeycode,PRODUCTIVITY,0.0,38.0,0
+Win-X Launcher (No ads),PRODUCTIVITY,0.0,7.5,0
+Internet speed test,PRODUCTIVITY,0.0,6.0,0
+Photo Editor Art تحرير وتعديل الصور,PRODUCTIVITY,0.0,22.5,0
+Zareklamy Ads - Build your brand's reputation,PRODUCTIVITY,0.0,2.5,0
+Mobizen Screen Recorder,PRODUCTIVITY,4.3,28.0,5770
+mi altice - Rep. Dom.,PRODUCTIVITY,3.0,29.0,0
+Overlays - Floating Apps Launcher,PRODUCTIVITY,4.27,7.0,11
+Extreme QR code reader & QR code scanner app free,PRODUCTIVITY,5.0,1.0,3
+Kids App Qustodio,PRODUCTIVITY,1.89,43.5,9
+"AutomateIt - Automate tasks, save battery and more",PRODUCTIVITY,4.33,28.5,3
+@Voice Aloud Reader (TTS Reader),PRODUCTIVITY,4.57,13.0,28
+SmartOffice - View & Edit MS Office files & PDFs,PRODUCTIVITY,3.23,11.5,26
+台灣之星,PRODUCTIVITY,0.0,7.5,0
+MyYes,PRODUCTIVITY,4.5,25.5,0
+台灣大哥大行動客服,PRODUCTIVITY,0.0,38.0,0
+Adobe Acrobat Reader,PRODUCTIVITY,4.4,24.5,368
+S’more - Earn Cash Rewards,PRODUCTIVITY,3.4,17.0,10
+Firefox Nightly,PRODUCTIVITY,4.31,75.5,13
+RoboForm Password Manager,PRODUCTIVITY,4.42,15.5,12
+HP Smart,PRODUCTIVITY,4.8,36.0,15
+Smash,PRODUCTIVITY,0.0,5.5,0
+FE File Explorer - Access files on PC Mac & NAS,PRODUCTIVITY,0.0,12.5,0
+PAKISTAN Online E-Services,PRODUCTIVITY,0.0,4.0,0
+Cloud,PRODUCTIVITY,4.89,18.0,47
+chomp SMS,PRODUCTIVITY,4.07,7.5,46
+MEGA,PRODUCTIVITY,4.46,86.0,1233
+Preview - Plan your Instagram,PRODUCTIVITY,5.0,46.5,0
+AePDS - AP,PRODUCTIVITY,0.0,25.5,0
+Kobo Books - eBooks & Audiobooks,PRODUCTIVITY,3.67,34.0,36
+DynamicG Google Drive Plugin,PRODUCTIVITY,4.0,0.87,3
+Deliveries Package Tracker,PRODUCTIVITY,3.71,8.5,14
+CoreBooster - App and Game Booster,PRODUCTIVITY,4.5,4.5,2
+Adobe Creative Cloud,PRODUCTIVITY,4.22,63.0,9
+Loud Alarm Clock for Free - Alarmy,PRODUCTIVITY,4.65,85.0,83
+Mobizen Live Stream for YouTube - live streaming,PRODUCTIVITY,3.93,18.5,138
+"Serbian Keyboard, Српска тастатура за андроид",PRODUCTIVITY,0.0,16.5,0
+Employee Time & Attendance tracking App. Try Free.,PRODUCTIVITY,0.0,7.0,0
+Notes Widget Reminder,PRODUCTIVITY,0.0,6.0,0
+Join by joaoapps,PRODUCTIVITY,3.8,15.5,0
+"Apk Share and Backup, Bluetooth App Sender",PRODUCTIVITY,5.0,9.0,0
+myunifi,PRODUCTIVITY,5.0,65.5,0
+SiteMax,PRODUCTIVITY,0.0,15.5,0
+Pomodoro,PRODUCTIVITY,0.0,9.5,0
+Microsoft PowerPoint,PRODUCTIVITY,4.36,109.0,244
+HR TONG - 모바일 e-HR,PRODUCTIVITY,0.0,21.5,0
+WeFast,PRODUCTIVITY,0.0,16.0,0
+Forest,PRODUCTIVITY,4.25,54.0,16
+App Hunt - App Store Market & App Manager,PRODUCTIVITY,5.0,7.0,0
+Aptoide Dev,PRODUCTIVITY,4.04,20.5,646
+"eNotes- Notes, To do, Checklist & Organizer",PRODUCTIVITY,0.0,10.0,0
+MSS MAHLE Forum,PRODUCTIVITY,0.0,18.5,0
+Business App v4,PRODUCTIVITY,0.0,14.0,0
+SonicVision,PRODUCTIVITY,0.0,5.0,0
+LiveCE - l'app de votre comité d'entreprise (CE),PRODUCTIVITY,0.0,5.0,0
+PUBG MOBILE,GAME,4.2,650.0,32619
+Fortnite,GAME,3.82,181.0,4300
+Garena Free Fire,GAME,4.29,710.0,33573
+CATS: Crash Arena Turbo Stars | Robots de combat,GAME,4.66,107.5,997
+Creative Destruction,GAME,4.2,2000.0,5828
+Brawl Stars,GAME,4.19,145.0,3099
+Legacy of Discord,GAME,2.67,103.0,240
+PUBG MOBILE LITE,GAME,4.04,591.0,14311
+Clash Royale,GAME,4.58,123.0,34808
+Clash of Clans,GAME,4.62,146.5,50737
+Clash of Kings,GAME,4.39,149.0,3057
+Lords Mobile,GAME,4.11,590.5,6641
+Epic Games,GAME,3.35,3.0,1905
+"DU Recorder - Screen Recorder, Video Editor, Live",GAME,2.71,10.5,262
+Brawl Stars,GAME,4.19,145.0,3099
+Boom Beach,GAME,4.66,162.5,4280
+Roblox,GAME,4.45,81.5,18967
+Fortnite,GAME,3.82,181.0,4300
+Bed Wars,GAME,4.1,82.0,199
+Mini World,GAME,4.28,315.0,2083
+Pokémon GO,GAME,4.21,53.0,33871
+Gear VR Service,GAME,2.8,7.5,0
+Terraria,GAME,3.98,205.5,8666
+Minecraft-VR,GAME,3.66,25.0,2529
+Dream League Soccer,GAME,4.47,384.0,33450
+eFootball PES 2020,GAME,4.24,529.5,11824
+FIFA 14 d'EA SPORTS™,GAME,4.37,1500.0,6949
+FIFA Football,GAME,4.34,93.0,4635
+8 Ball Pool,GAME,4.49,54.0,5470
+Score! Hero,GAME,4.58,97.5,3216
+First Touch Soccer 2015,GAME,4.56,130.0,5844
+FIFA 15 Football Ultimate Team,GAME,4.35,1500.0,8805
+DIGIMON ReArise,GAME,4.2,100.0,0
+Saint Seiya Awakening,GAME,3.75,1500.0,32
+Crossing Void,GAME,3.71,155.5,31
+Era of Celestials,GAME,3.87,104.0,221
+Shadow Fight 2,GAME,4.63,256.0,5399
+Shadow Fight 3,GAME,4.27,560.0,4274
+Ninja Turtles,GAME,4.23,99.0,847
+Monster Legends,GAME,4.6,98.5,1924
+Cut the Rope,GAME,4.32,51.0,375
+Picture Cross,GAME,4.5,64.5,8
+Cut the Rope 2,GAME,4.31,52.5,263
+Bad Piggies,GAME,4.33,76.5,416
+"Mais, où est Swampy ? Gratuit",GAME,4.19,80.5,178
+Candy Crush Jelly Saga,GAME,4.37,109.5,545
+"Mais, où est Swampy ? 2",GAME,4.26,130.5,483
+Roll the Ball,GAME,4.31,31.5,259
+Tag avec Ryan,GAME,3.26,259.0,62
+Gacha Life,GAME,4.32,104.0,2567
+Candy Crush Saga,GAME,4.27,72.0,4207
+Pou,GAME,4.06,23.0,2892
+Candy Crush Soda Saga,GAME,4.26,88.5,1284
+Farm Heroes Saga,GAME,4.42,84.0,1155
+Hay Day,GAME,4.47,165.0,8238
+Mon Talking Tom,GAME,4.35,125.5,2434
+Space Shooter: Les Envahisseurs Extraterrestres,GAME,4.04,63.0,113
+Blockman Go,GAME,4.14,81.5,498
+Temple Run 2,GAME,4.47,97.0,1977
+Master for Minecraft- Launcher,GAME,4.46,21.5,12945
+Gℯσmetri Dαsh,GAME,4.02,60.5,1678
+Sonic Dash,GAME,4.32,96.5,1957
+Temple Run,GAME,4.09,34.0,664
+Angry Birds Star Wars,GAME,4.46,47.0,514
+Camion Simulador 2018,GAME,4.26,153.0,144
+Gear VR Service,GAME,2.8,7.5,0
+Dragon City,GAME,4.62,121.0,3117
+Les Sims™  FreePlay,GAME,4.21,36.5,2325
+Raft Survival,GAME,4.36,65.5,908
+Les Sims™  FreePlay,GAME,4.23,35.5,1643
+Block Craft 3D,GAME,4.3,60.5,381
+Heavy Bus Simulator,GAME,4.39,287.5,1195
+Off The Road,GAME,4.63,207.0,72
+FR Legends,GAME,4.51,81.5,49
+Hill Climb Racing,GAME,4.43,61.0,1843
+Bike Race Gratuit - Jeux de Course de Moto,GAME,4.55,29.5,800
+Need for Speed,GAME,4.35,1500.0,5005
+Angry Birds Go!,GAME,4.41,432.0,2428
+Extreme Car Driving Simulator,GAME,4.42,54.5,875
+Dr. Driving,GAME,4.45,12.5,938
+PUBG MOBILE,GAME,4.2,650.0,32619
+Fortnite,GAME,3.82,181.0,4300
+Garena Free Fire,GAME,4.29,710.0,33573
+CATS: Crash Arena Turbo Stars | Robots de combat,GAME,4.66,107.5,997
+Creative Destruction,GAME,4.2,2000.0,5828
+Brawl Stars,GAME,4.19,145.0,3099
+Legacy of Discord,GAME,2.67,103.0,240
+PUBG MOBILE LITE,GAME,4.04,591.0,14311
+Garena Free Fire MAX,GAME,3.81,939.0,3520
+Grand Theft Auto San Andreas,GAME,4.07,2000.0,5338
+Cheat FreeFire Hack MOD,GAME,3.69,3.0,688
+Among Us,GAME,4.13,80.0,1024
+Grand cheat for GTA San Andreas,GAME,3.33,11.0,778
+SwiftKey 2,GAME,2.41,0.45,115
+MIUI8 (iFont),GAME,3.69,1.5,39
+GTA V Android,GAME,4.02,68.0,459
+GTA-V Android,GAME,3.68,76.0,884
+Bixby Home,GAME,3.84,17.5,64
+LEGO® Ninjago Tournament,GAME,4.06,980.5,2503
+Dragon Ball Z,GAME,3.6,362.5,89
+"﻿Skype - mess. instantanée, appels vidéo gratuits",GAME,4.32,41.0,1688
+Samsung Themes,GAME,3.75,9.5,273
+Call of Duty®: Mobile,GAME,3.89,1500.0,4353
+Talking Tom Hero Dash,GAME,4.31,94.5,84
+Gear VR Service,GAME,2.8,7.5,0
+Teen Titans GO Figure!,GAME,4.13,404.0,6929
+Knockout Race,GAME,2.61,44.0,28
+la liberté de jeu de tir zombi,GAME,3.48,97.5,25
+Stickman fighter,GAME,4.21,14.5,29
+Temple Run 2,GAME,4.47,97.0,1977
+Survival Hungry Games 2,GAME,3.81,107.0,26
+Bloons TD 6,GAME,3.03,44.5,296
+Goku War Tenkaichi Xenoverse 5,GAME,4.37,758.5,721
+Grand Next Auto San Francisco,GAME,3.05,40.0,120
+Last Day on Earth,GAME,4.28,404.5,2343
+Five Nights at Freddy's,GAME,3.39,87.0,161
+Sniper 3D Assassin (Mod),GAME,4.45,54.0,673
+Counter Critical Attack,GAME,3.33,71.5,18
+UCN (Full),GAME,4.43,176.0,1242
+Honkai Impact 3rd,GAME,4.43,75.0,74
+Shin Budokai 2,GAME,4.35,593.0,356
+Standoff 2,GAME,4.47,861.0,2604
+Bus Rush,GAME,4.17,97.5,76
+Marvel Tournoi des Champions,GAME,4.28,673.5,2202
+BEYBLADE BURST app,GAME,4.33,694.0,2960
+Attack on Titan The Game,GAME,2.33,29.5,33
+Mini Militia - Doodle Army 2,GAME,4.48,34.0,1298
+Ultimate Custom Night Android,GAME,3.66,48.0,1012
+The Fear,GAME,3.97,47.5,115
+Supreme Duelist Stickman,GAME,4.86,32.0,21
+Clash Royale,GAME,4.58,123.0,34808
+Clash of Clans,GAME,4.62,146.5,50737
+Clash of Kings,GAME,4.39,149.0,3057
+Lords Mobile,GAME,4.11,590.5,6641
+Brawl Stars,GAME,4.19,145.0,3099
+Epic Games,GAME,3.35,3.0,1905
+Five Nights at Freddy's AR: Special Delivery,GAME,3.7,168.0,305
+Mini Titans - Teen Titans Go !,GAME,4.47,241.0,8707
+Castle Clash,GAME,4.65,561.5,37
+Bloons TD 6,GAME,3.03,44.5,296
+Teamfight Tactics : jeu de stratégie LoL,GAME,3.62,58.0,218
+Dragon Ball Z - Shin Budokai 2,GAME,4.48,22.0,23
+League of Legends: Wild Rift,GAME,3.27,2000.0,369
+SPIDER-MAN 3,GAME,4.24,22.0,17
+Magic - CoC S1 (10.322 R1),GAME,4.16,120.0,132
+Five Nights at Freddy's 2 Demo,GAME,4.28,43.5,747
+Spider-Man: Ultimate Power,GAME,2.83,13.0,29
+Dead by Daylight Mobile,GAME,3.71,2000.0,287
+Dragon Mania,GAME,4.04,19.0,100
+Puzzle Pets,GAME,4.14,14.0,7
+Tower Defense - War Strategy Game,GAME,5.0,60.0,2
+Clone Armies,GAME,4.4,68.5,45
+Undertale Türkçe Localized Version 2019,GAME,4.0,136.0,42
+Kingdoms & Lords,GAME,4.41,12.5,110
+Tower Defense,GAME,3.73,64.5,11
+The Escapists,GAME,4.4,88.5,3224
+Galaxy Reavers 2,GAME,3.33,548.5,15
+ExaGear Strategies - PC games for Android,GAME,4.47,50.0,79
+"DU Recorder - Screen Recorder, Video Editor, Live",GAME,2.71,10.5,262
+Kingdom Rush Vengeance,GAME,3.65,604.5,407
+Launcher for Terraria (Mods),GAME,2.97,6.0,131
+Clash of Clans MOD,GAME,4.2,127.5,51
+Null’s Royale - OpenServer,GAME,4.01,115.0,466
+Disney Heroes,GAME,4.45,102.5,51
+Stick War,GAME,4.54,87.0,538
+Atrasis - CoC Private Server,GAME,5.0,2.0,2
+Gang Wars - Lawless City,GAME,0.0,218.5,0
+State of Survival,GAME,4.59,108.5,0
+Age of Kings,GAME,4.27,108.0,177
+Kingdom Rush Frontiers,GAME,4.31,167.0,1146
+Magic - CoC S2 (9.105 R1),GAME,4.3,95.0,69
+Fortnite Mobile Mods For Minecraft,GAME,3.47,6.0,560
+Call Me Emperor,GAME,4.5,81.0,10
+Hacker.exe,GAME,4.03,47.5,31
+Summer Time Saga new hint,GAME,3.36,4.5,33
+Clash of Dreams,GAME,4.0,89.0,12
+New Dragon Ball XenoVerse Battle Game Hints,GAME,3.43,5.5,14
+Plants vs. Zombies FREE,GAME,4.42,153.0,878
+Art of War,GAME,3.73,116.0,11
+Rise of Kingdoms,GAME,4.58,704.5,55
+Roblox,GAME,4.45,81.5,18967
+Fortnite,GAME,3.82,181.0,4300
+Bed Wars,GAME,4.1,82.0,199
+Mini World,GAME,4.28,315.0,2083
+Minecraft-VR,GAME,3.66,25.0,2529
+Minecraft Mod,GAME,3.81,23.0,312
+GTA V Android,GAME,4.02,68.0,459
+Pokémon GO,GAME,4.21,53.0,33871
+Gear VR Service,GAME,2.8,7.5,0
+Hello Neighbor,GAME,3.89,980.0,2560
+Pokemon,GAME,3.78,10.0,153
+Pokemon,GAME,4.31,9.5,114
+Bendy and the Ink Machine,GAME,4.0,547.5,2733
+Cuphead Mobile,GAME,3.76,249.5,2173
+Super Mario Advance 4,GAME,4.59,3.0,56
+Pokemon,GAME,4.29,9.0,0
+Friday Night Multiplayer,GAME,3.66,408.0,126
+LEGO® Star Wars™: TFA,GAME,4.06,1500.0,707
+Pokemon,GAME,4.0,11.0,17
+Terraria,GAME,3.98,205.5,8666
+60 Seconds! Atomic Adventure,GAME,4.3,108.5,836
+Sonic 2,GAME,3.0,8.5,16
+Teaching Feeling,GAME,4.0,92.5,218
+LifeAfter,GAME,4.31,2000.0,70
+Pokemon Emerald,GAME,4.5,10.5,8
+Genshin Impact,GAME,3.36,88.5,221
+Eyes,GAME,4.3,39.5,373
+Crash Bandicoot,GAME,4.75,9.0,12
+Pokemon,GAME,3.67,20.0,109
+Car wash,GAME,4.38,19.5,8
+Pokemon,GAME,3.14,4.5,43
+Trick Naruto Senki Shippuden Ninja Storm 4,GAME,3.25,5.0,12
+Pokemon,GAME,3.9,11.5,10
+Pokemon,GAME,3.77,11.5,52
+Pokemon,GAME,3.0,9.5,31
+PK XD,GAME,4.3,128.0,222
+Pokemon,GAME,3.78,12.0,54
+Pokemon Ruby,GAME,2.75,8.5,4
+LEGO® NEXO KNIGHTS™:MERLOK 2.0,GAME,4.21,432.0,343
+New Naruto Ultimate Ninja Storm 4 Guide,GAME,3.24,4.5,34
+Sonic Mania,GAME,3.75,20.0,614
+Magic - CoC S1 (10.322 R1),GAME,4.16,120.0,132
+Pokemon Sun And Moon,GAME,3.6,10.0,0
+Island Is Home 2 Survival Simulator Game,GAME,4.73,59.0,15
+Kingdoms,GAME,4.23,11.5,13
+Mortal Kombat Shaolin Monks Walkthrough,GAME,3.1,4.5,10
+Spider-Man: Ultimate Power,GAME,2.83,13.0,29
+Pokemon XY,GAME,5.0,11.5,8
+Pokemon,GAME,4.31,9.5,114
+Puzzle Pets,GAME,4.14,14.0,7
+Dream League Soccer,GAME,4.47,384.0,33450
+eFootball PES 2020,GAME,4.24,529.5,11824
+8 Ball Pool,GAME,4.49,54.0,5470
+Run Race 3D - Course 3D,GAME,4.08,67.0,93
+FIFA Football,GAME,4.34,93.0,4635
+PES 2017,GAME,3.7,68.5,273
+True Skate,GAME,4.19,64.0,5628
+Real Boxing,GAME,3.97,326.0,372
+FTS 20 MOD,GAME,3.49,5.5,41
+Wrestling Revolution 3D,GAME,4.48,61.0,236
+Touchgrind BMX 2,GAME,3.24,395.5,58
+TapTap,GAME,5.0,32.0,0
+Skateboard Party 3,GAME,4.45,572.5,128
+Dream League Soccer 2020,GAME,4.02,394.0,234
+PH Slam! - Basketball,GAME,4.39,72.5,62
+Head Ball 2,GAME,4.33,95.5,265
+Pool Clash,GAME,5.0,70.0,1
+Score! Hero,GAME,4.58,97.5,3216
+FIFA 20 and PES 2020 - Guess the Footballer!,GAME,4.2,91.5,15
+Pool Instant Rewards - Free coins,GAME,4.4,10.0,78
+Dream League Soccer,GAME,4.36,339.0,838
+Dream11,GAME,4.27,26.5,265
+FTS 2020,GAME,4.19,200.5,213
+First Touch Soccer 2015,GAME,4.56,130.0,5844
+Street Lines,GAME,2.0,42.5,1
+MyNBA2K21,GAME,1.67,115.0,3
+Dream League Soccer,GAME,4.47,142.5,6699
+Dolphin Emulator,GAME,3.85,17.0,171
+Basketball Sniper Shot,GAME,3.88,30.5,8
+Soccer Manager 2021 - Football Management Game,GAME,3.88,93.0,121
+GUIDE FOR PES 2018 PRO EVOLUTION SOCCER,GAME,3.5,4.5,4
+Online Soccer Manager (OSM),GAME,4.59,15.0,1041
+Underworld Football Manager 2020,GAME,4.34,92.0,29
+NBA 2K18,GAME,3.59,2000.0,630
+Top Eleven 2020 - Manager de Football,GAME,4.65,84.0,1458
+FIFA 14 d'EA SPORTS™,GAME,4.37,1500.0,6949
+Motocross,GAME,0.0,8.5,0
+BMX FE3D 2 - Freestyle Extreme 3D,GAME,4.33,82.0,6
+Soccer Kick,GAME,4.5,45.5,4
+T20 Cricket Champions 3D,GAME,4.17,57.0,6
+Football Soccer 2020,GAME,3.8,50.0,5
+BMX Freestyle Extreme 3D,GAME,4.24,43.5,0
+FIFA 16 Football,GAME,4.16,1500.0,14914
+NBA JAM by EA SPORTS™,GAME,4.12,545.0,1785
+Football,GAME,3.22,19.5,27
+Tir à l'arc Gros match,GAME,4.0,151.0,0
+championnat de billard,GAME,5.0,17.5,1
+Pooking - Billiards City,GAME,4.13,44.5,64
+NBA LIVE Mobile Basket-ball,GAME,4.6,73.5,2518
+FTS 2019 1.0,GAME,4.35,212.0,361
+DIGIMON ReArise,GAME,4.2,100.0,0
+Saint Seiya Awakening,GAME,3.75,1500.0,32
+Crossing Void,GAME,3.71,155.5,31
+Era of Celestials,GAME,3.87,104.0,221
+KOF'98 UM OL,GAME,4.7,99.0,23
+MARVEL Future Fight,GAME,4.56,54.5,866
+Avakin Life - Monde virtuel en 3D,GAME,4.48,68.0,2976
+Star Wars,GAME,4.41,82.0,456
+DC Legends lutte pour just.,GAME,2.85,75.0,13
+Angry Birds Epic RPG,GAME,4.57,173.0,1117
+Blackout Age - Survie RPG avec des Extraterrestres,GAME,3.67,58.5,6
+Shadow Fight 2,GAME,4.63,256.0,5399
+MARVEL Puzzle Quest,GAME,4.32,173.5,120
+The Seven Deadly Sins,GAME,4.24,85.5,253
+FNaF World,GAME,4.24,104.0,2621
+Vivo-Appstore,GAME,4.57,10.5,14
+Game of Sultans,GAME,4.17,117.0,72
+Ninja Turtles,GAME,4.23,99.0,847
+Disney Heroes,GAME,4.45,102.5,51
+Hero Tycoon,GAME,3.79,90.5,14
+Guide Roblox Escape Grandma's House Obby,GAME,2.0,32.5,29
+Sonic X,GAME,4.33,37.0,9
+Sky - Enfants de la Lumière,GAME,3.56,8.5,18
+EvoCreo,GAME,4.61,44.0,1070
+Sword Art Online,GAME,4.27,91.5,406
+Duskwood - Crime & Investigation Detective Story,GAME,4.26,310.0,23
+Life is Strange,GAME,3.54,2000.0,41
+Shadow Fight 3,GAME,4.27,560.0,4274
+MARVEL Strike Force,GAME,4.31,106.5,112
+Neo Monsters,GAME,4.38,87.5,719
+Strive for Glory,GAME,3.67,156.0,3
+Monstre de la ville incroyable,GAME,0.0,50.0,0
+Pokémon Masters,GAME,3.28,88.5,0
+Shadow Fight Arena — PvP Fighting game,GAME,3.8,914.0,5
+HonorBound (RPG),GAME,4.15,83.5,40
+LEGO® City,GAME,4.31,122.0,545
+KOTOR,GAME,3.84,2000.0,0
+Hotel Hideaway - Simulateur de Vie Sociale et Chat,GAME,4.11,108.0,45
+LifeAfter,GAME,3.99,2000.0,103
+Five night at Ferddy Minecraft,GAME,3.44,99.0,172
+Ninja Rebirth - Monster Legend,GAME,3.96,149.5,70
+Forsaken World,GAME,3.73,799.5,11
+Empires & Puzzles: Epic Match 3,GAME,4.38,89.5,245
+Monster Legends,GAME,4.6,98.5,1924
+AFK Arena,GAME,4.34,101.5,29
+VR GirlFriend,GAME,3.89,325.5,53
+Hint Yandere Simulator,GAME,2.9,4.0,90
+Degrees of Lewdity,GAME,5.0,11.0,13
+Goddess of Genesis S,GAME,5.0,1500.0,1
+DeltaRune,GAME,3.38,79.0,222
+Cut the Rope,GAME,4.32,51.0,375
+Picture Cross,GAME,4.5,64.5,8
+Cut the Rope 2,GAME,4.31,52.5,263
+échapper à la prison: jeu d'aventure gratuit,GAME,3.76,56.0,29
+Slugterra,GAME,4.2,350.5,1565
+Vendredi 13,GAME,4.21,85.0,221
+MARVEL Puzzle Quest,GAME,4.32,173.5,120
+Candy Crush Jelly Saga,GAME,4.37,109.5,545
+Matchington Mansion,GAME,4.52,243.0,243
+Cube Game,GAME,3.67,1.5,3
+Marble Mission,GAME,3.67,47.5,3
+Emoji Puzzle!,GAME,5.0,24.0,0
+Couper la banane,GAME,1.0,29.5,5
+Brain Out – Êtes-vous à la hauteur ?,GAME,4.68,60.0,57
+Blackies,GAME,4.0,57.5,27
+Christmas Candy World - Christmas Games,GAME,5.0,138.5,1
+Pixel Art,GAME,4.68,27.0,339
+Toon Blast,GAME,4.57,134.5,341
+Bubble Witch 3 Saga,GAME,4.79,85.5,342
+Labyrinthes et Plus,GAME,4.13,20.5,32
+Disney La Reine des Neiges Free Fall,GAME,4.25,275.5,135
+Fancy Cakes,GAME,0.0,98.0,0
+Sand Balls,GAME,4.33,119.5,21
+Block Puzzle Jewel,GAME,3.9,20.5,73
+Easy Game - Test de cerveau et jeux de logique,GAME,3.67,41.5,3
+Fishdom,GAME,4.42,201.0,666
+Magic Circus - Match 3,GAME,3.25,14.5,4
+Maze Dungeon,GAME,5.0,28.5,3
+LEGO® DUPLO® Train,GAME,4.17,98.0,6
+Flow Free,GAME,4.32,6.5,95
+Cubeology,GAME,0.0,9.5,0
+Doodle God™,GAME,3.03,46.0,75
+Roll the Ball,GAME,4.31,31.5,259
+Toy Blast,GAME,4.61,164.0,330
+Keep Talking & Nobody Explodes,GAME,2.85,92.5,0
+Maison de Rêve - Concevez la Maison de Vos Rêves,GAME,2.86,116.5,7
+Zentris,GAME,5.0,41.0,2
+Le Pendu,GAME,4.43,21.5,14
+Make it look like an accident,GAME,0.0,30.0,0
+Color Fill 3D,GAME,4.18,50.0,11
+Best Fiends - Jeu d'action-réflexion gratuit,GAME,4.61,151.5,357
+Tirer des balles,GAME,4.6,9.0,5
+June's Journey - Enquêtes et objets cachés,GAME,3.96,47.5,28
+Disney Princesses Puzzle Royal,GAME,3.25,142.0,8
+Sudoku.com - Jeu de sudoku gratuit,GAME,4.85,21.5,34
+Harry Potter,GAME,4.5,82.0,12
+Clue Hunter,GAME,5.0,218.0,0
+Story of Alcana,GAME,2.0,103.5,1
+Tetris,GAME,5.0,20.0,2
+Jigsaw Puzzles Epic,GAME,4.31,26.5,13
+Ben 10 - Alien Force,GAME,3.56,21.5,16
+Pro Evolution Soccer 2013,GAME,4.42,22.0,24
+Sonic Rivals,GAME,3.0,21.5,8
+Spider-Man: Ultimate Power,GAME,2.83,13.0,29
+Jeux des petits chevaux et le jeu de dada gratuit,GAME,4.17,113.5,6
+Blackmart,GAME,3.83,3.5,1511
+Club Penguin,GAME,3.94,195.5,899
+Crocro's Friends\nVillage,GAME,4.67,40.0,3
+Clumsy Ninja,GAME,4.19,178.0,845
+FarmVille 2 : Escapade rurale,GAME,4.32,126.5,1534
+Hot Wheels Ultimate Racing,GAME,4.67,21.5,3
+Super Dragon Ball coloring book,GAME,2.0,28.5,2
+Mario Bros 3,GAME,3.8,6.5,10
+Rapids,GAME,5.0,19.5,0
+Just Dance Now,GAME,4.25,79.0,536
+RemoteCall Service,GAME,3.47,3.0,17
+Fazenda Verde 3,GAME,4.12,8.5,52
+Jeux éducatifs: chiffres,GAME,0.0,29.0,0
+Trains for Kids,GAME,3.33,10.5,0
+Real Football,GAME,0.0,16.5,0
+Paint,GAME,4.0,11.0,16
+Virtual Mother Game,GAME,3.6,46.0,10
+Little Big Planet 3,GAME,1.0,8.5,4
+Changeur de voix avec effets,GAME,4.48,5.0,259
+Love Tester,GAME,4.0,2.0,0
+The Sims Mobile,GAME,2.0,4.0,4
+Maquillage & Habits Barbie 2,GAME,4.0,51.5,4
+Celebrity New Baby Born,GAME,5.0,9.5,2
+Hotel Story,GAME,4.1,20.5,249
+Salon de coiffure,GAME,4.12,29.0,33
+Sweet Cake Coloring Book,GAME,0.0,8.5,0
+Lulubox,GAME,3.84,5.5,75
+Cupets,GAME,2.92,84.0,24
+Cool Games with Math,GAME,4.78,22.0,9
+On Deck,GAME,0.0,3.5,0
+Jeux de dinosaures les enfants,GAME,2.25,13.5,0
+Coloriage,GAME,4.5,31.5,4
+The Lego Movie,GAME,3.0,8.5,2
+Garfield - La belle vie !,GAME,3.67,11.0,3
+The Simpsons El Videojuego,GAME,1.0,21.5,1
+BRIO Railway,GAME,4.14,77.0,0
+Amazing Princess Gymnastics,GAME,4.0,79.0,2
+Let's Farm,GAME,4.0,58.0,39
+Barbie Mode magique,GAME,4.19,131.0,43
+King Of Fighters 98,GAME,5.0,22.0,1
+Magic Kinder - Jeux gratuits pour la famille,GAME,4.24,188.0,59
+Livre à colorier,GAME,4.4,14.5,0
+,GAME,,,0
+Relooking mariage ange,GAME,3.85,17.5,0
+Video · Youku,GAME,0.0,25.5,0
+Tag avec Ryan,GAME,3.26,259.0,62
+Gacha Life,GAME,4.32,104.0,2567
+Candy Crush Saga,GAME,4.27,72.0,4207
+Play Store Pro,GAME,4.35,24.0,264
+Mine­craft: Pocket Edition (Mod),GAME,2.66,62.5,1983
+Coin Master,GAME,4.08,64.5,641
+Candy Crush Soda Saga,GAME,4.26,88.5,1284
+Soins du Cheval Arc-en-ciel - Salon de Beauté,GAME,3.93,61.5,15
+My Talking Tom Friends,GAME,4.38,92.0,107
+Ice Cream Inc.,GAME,3.86,77.5,7
+"Papers Grade, Please!",GAME,4.12,68.0,17
+Bubble Tea!,GAME,4.33,21.5,6
+Farm Heroes Saga,GAME,4.42,84.0,1155
+Pokey Ball,GAME,4.5,49.0,2
+Le restaurant Tycoon,GAME,3.48,13.5,21
+Hay Day,GAME,4.47,165.0,8238
+Mon Talking Tom 2,GAME,4.38,108.5,620
+Ma Talking Angela,GAME,4.32,147.0,2193
+MONOPOLY,GAME,3.45,117.5,1128
+Collect Cubes,GAME,3.5,21.5,2
+Plants vs. Zombies™ 2,GAME,4.12,681.5,3499
+Gardenscapes,GAME,4.69,134.0,1701
+Zumbla Classic,GAME,0.0,54.5,0
+Star Wars,GAME,4.41,82.0,456
+Gacha Club,GAME,4.47,104.5,201
+Peindre par Numéro - Livre de coloriage gratuit,GAME,4.79,55.5,29
+Pou,GAME,4.06,23.0,2892
+Puzzle Pets,GAME,4.14,14.0,7
+Follow the Line 2D Deluxe,GAME,3.87,31.0,67
+Homescapes,GAME,4.63,140.0,1180
+My Papa's Freezeria,GAME,4.25,19.5,102
+Pet Rescue Saga,GAME,4.48,71.0,597
+Club Penguin,GAME,3.94,195.5,899
+Projeto Relo,GAME,4.5,37.5,148
+Angry Birds 2,GAME,4.61,226.0,1810
+Rocket Rooster,GAME,3.85,37.0,47
+Candy Crush Friends Saga,GAME,4.24,103.5,54
+garagiste voiture 2020,GAME,5.0,27.5,2
+Dragon City,GAME,4.62,121.0,3117
+Township,GAME,4.57,204.5,2700
+Les Sims™  FreePlay,GAME,4.21,36.5,2325
+Dolphin Emulator,GAME,3.85,17.0,171
+Foil Turning 3D,GAME,5.0,46.5,0
+Chain Cube,GAME,4.0,19.5,5
+Histoire de Cuisine,GAME,4.09,22.0,11
+Puppy Town - Merge & Win💰,GAME,4.03,79.5,37
+Bubble Shooter,GAME,4.5,20.0,28
+Plaisa,GAME,3.0,37.5,3
+Plants vs. Zombies™ 2 Free,GAME,4.39,682.5,5375
+Super Mario Maker World Engine,GAME,4.39,113.0,457
